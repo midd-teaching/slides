@@ -1,0 +1,699 @@
+---
+title       : "Español 1.5"
+subtitle    : "Capítulo 2"
+author      : "Joseph V. Casillas"
+date        : "Middlebury College | Verano 2021"
+output:
+  xaringan::moon_reader:
+    css: ["hygge", "middlebury", "middlebury-fonts"]
+    lib_dir: assets
+    self_contained: FALSE
+    nature:
+      beforeInit: ["https://www.jvcasillas.com/midd_xaringan/js/midd_xaringan.js", "https://platform.twitter.com/widgets.js"]
+      highlightStyle: monokai
+      highlightLines: TRUE
+      countIncrementalSlides: FALSE
+      ratio: "16:9"
+---
+
+```{r setup, include=FALSE, cache=FALSE}
+options(htmltools.dir.version = FALSE)
+xaringanExtra:::use_freezeframe()
+```
+
+class: inverse, center, middle
+
+# Repaso
+
+---
+
+# Actividad verbos regulares
+
+<div align="center">
+  <img width="850" src="./assets/img/ejconjugacion.png">
+</div>
+
+---
+
+# La relación sujeto/verbo
+
+**SVO**
+
+--
+
+- **Juan** ***tiene*** tres clases este semestre.
+
+--
+
+- **Juan** *no* ***tiene*** un laboratorio este semestre.
+
+--
+
+- **Yo** *tengo* cuatro clases este semestre, pero **ella** *tiene* cinco.
+
+--
+
+- **Los estudiantes** ***estudian*** durante el fin de semana. 
+
+--
+
+- **Tú y yo** ***buscamos*** las respuestas de la tarea.
+
+---
+
+
+
+
+class: inverse, center, middle
+
+# Los adjetivos
+
+---
+
+# Los adjetivos
+
+- ¿Qué tipo de concordancia tienen? 
+
+- ¿Con qué concuerdan?
+
+- ¿Cuándo?
+
+- Ejemplos...
+
+---
+
+<!-- adjetivos posesivos -->
+
+# Los adjetivos posesivos
+
+- Se utilizan para indicar **posesión**
+- Tienen **número** y **género**
+
+|    |    |       |    |                        |
+|:---| :- | :---- | :- | :--------------------- |
+| 1a |    | mi(s) |    | nuestro(s)/nuestra(s)  |
+| 2a |    | tu(s) |    | vuestro(s)/vuestra(s)  |
+| 3a |    | su(s) |    | su(s)                  |
+| | &nbsp; &nbsp; &nbsp; | | &nbsp; &nbsp; &nbsp; | |
+
+</br>
+
+- mi familia, mis abuelos
+
+- su hija, sus hijos
+
+- nuestr**a** herman**a**, nuestr**os** herman**os**
+
+---
+background-image: url(./assets/img/cadiz.png)
+background-position: 90% 40%
+
+# La posesión con 'de'
+
+.pull-left[
+
+- Para evitar la confusión en la 3a persona, se puede usar la preposión 
+'de'
+
+.center[
+.RUred[Enrique y Alicia viven en Cádiz.]  
+
+**¿Dónde están sus casas?**
+]
+
+- La casa **de** él está en San Fernando. 
+- La casa **de** ella está en Sanlúcar.  
+
+]
+
+---
+background-image: url(./assets/img/cadiz.png)
+background-position: 90% 40%
+
+# La posesión con 'de'
+
+.pull-left[
+
+- Para evitar la confusión en la 3a persona, se puede usar la preposión 'de'
+
+.center[
+.RUred[Enrique y Alicia tienen amigos que viven en Cádiz.]
+
+**¿Dónde viven sus amigos?**
+]
+
+- El amigo **de** Alicia vive en San Fernando.  
+- El amigo **de** Enrique vive en Sanlúcar. 
+
+]
+
+---
+
+# ¡Nunca usamos <BLUE>'s</BLUE> para indicar posesión!
+
+.pull-left[
+### ~~Mi hermanas casa~~
+### ~~Tu amigos coche~~
+### ~~Su abuelos teléfono~~
+### ~~Nuestro perros correa~~
+### ~~Vuestras clases profesor~~ 
+### ~~Sus camas sábanas~~
+]
+
+--
+
+.pull-right[
+### La casa de mi hermana
+### El coche de tu amigo
+### El teléfono de su abuelo
+### La correa de nuestro perro
+### El profesor de vuestras clases
+### Las sábanas de sus camas
+]
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+class: inverse, center, middle
+
+<!-- ser/estar -->
+
+# Ser y estar
+
+---
+background-image: url(./assets/img/maya.png)
+background-size: 450px
+background-position: 95% 50%
+
+# El verbo ser: para identificar y clasificar
+
+- Maya **es** mi perra.
+
+--
+
+- Mi hermana **es** enfermera.
+
+--
+
+- Yo **soy** lingüista.
+
+--
+
+- Tú **eres** estudiante.
+
+--
+
+- Fanny **es** de Perú.
+
+--
+
+- Nosotros **somos** divertidos.
+
+---
+background-image: url(./assets/img/sultan.png), url(./assets/img/lobo.png)
+background-size: 200px, 200px
+background-position: 80% 50%, 100% 50%
+
+# El verbo ser: 
+
+## Para describir características con los adjetivos
+
+--
+
+- Sultán **es** grande y feroz.
+
+- Sultán y Lobo **son** buenos perros.
+
+---
+background-image: url(./assets/img/mayaFloja.png)
+background-size: contain
+background-position: 100% 50%
+
+# Maya es muy...
+
+---
+background-image: url(./assets/img/ser1.png)
+background-size: 450px
+background-position: 95% 50%
+
+# Los usos del verbo ser: 
+
+## Con la preposición "de"
+
+--
+
+- **Posesión**
+  - ¿De quién **es** el cuarto? **Es** de Alicia.
+
+</br>
+
+--
+
+- **Origen**
+  - ¿De dónde **es** Jacobo? **Es** de México.
+
+---
+background-image: url(./assets/img/fiesta.png)
+background-size: 450px
+background-position: 95% 50%
+
+# Los usos del verbo ser: 
+
+## Con la HORA y el LUGAR de los eventos
+
+--
+
+- ¿Cuándo **es** la fiesta?
+
+--
+
+- **Es** el sábado a las siete de la noche.
+
+--
+
+- La fiesta **es** en la casa del profesor.
+
+---
+background-image: url(./assets/img/az.png)
+background-size: contain
+background-position: 140% 50%
+
+# Los usos del verbo estar:
+
+## La ubicación de las cosas
+
+--
+
+- ¿Dónde **está** el profe?
+
+--
+
+- **Está** en el gran cañón.
+
+---
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/img/frustration.png)
+background-position: 90% 30%
+
+# Los usos del verbo estar: 
+
+## Para describir una condición
+
+--
+
+- ¿Cómo **está** Jackie Chan?
+
+- **Está**...
+
+---
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/img/frustration.png)
+background-position: 90% 30%
+
+# Ser y estar: 
+
+## Las características versus las condiciones
+
+--
+
+<br><br><br><br><br>
+
+.pull-left[
+
+### ¿Cómo **es** Jackie Chan?
+
+- **Es** bajo con pelo negro.
+- **Es** simpático.
+
+]
+
+.pull-right[
+
+### ¿Cómo **está** Jackie Chan? 
+
+- **Está** confundido.
+- **Está** frustrado.
+
+]
+
+---
+class: title-slide-section-grey, middle, center
+
+# ¿.RUred[Cómo es (son)]? </br></br>¿.RUred[Cómo está(n)]?
+
+---
+
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/cant_believe.gif)
+background-size: contain
+
+---
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/creepy_happy.gif)
+background-size: contain
+
+---
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/haha.gif)
+background-size: contain
+
+---
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/jurassic_park.gif)
+background-size: contain
+
+---
+background-color: black
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/luis.gif)
+background-size: contain
+
+---
+background-color: black
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/rock_clap.gif)
+background-size: contain
+
+---
+background-color: black
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/img/tired.png)
+background-size: contain
+
+---
+background-color: black
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/general/gifs/throw_into_pool.gif)
+background-size: contain
+
+---
+
+
+
+
+
+
+
+
+
+
+class: inverse, center, middle
+
+# Gustar
+
+---
+background-image: url(./assets/img/tiempolibre1.png)
+background-size: 900px
+background-position: 50% 70%
+
+# ¿Qué le gusta hacer en su tiempo libre?
+
+---
+background-image: url(./assets/img/tiempolibre2.png)
+background-size: 850px
+background-position: 50% 70%
+
+# ¿Qué le gusta hacer en su tiempo libre?
+
+---
+
+# El verbo gustar
+
+### El verbo gustar tiene DOS formas<sup>1</sup>: **gusta** y **gustan**
+
+| .RUred[Comp. Indirecto]  &nbsp; &nbsp; &nbsp; | .RUred[gusta]/.RUred[gustan] &nbsp; &nbsp; &nbsp; | .RUred[Sujeto] |
+|:----------------------|:-------------|:--------------|
+| Me                    | gust**a**    | jugar al tenis|
+| Te                    | gust**a**    | el tenis      |
+| Le                    | gust**a**    | el deporte    |
+| Nos                   | gust**a**    | la clase      |
+| Os                    | gust**a**    | Middlebury    |
+| Les                   | gust**a**    | la lluvia     |
+
+.footnote[
+<sup>1</sup> Mentira.
+]
+
+---
+
+# El verbo gustar
+
+### El verbo gustar tiene DOS formas<sup>1</sup>: **gusta** y **gustan**
+
+| .RUred[Comp. Indirecto]  &nbsp; &nbsp; &nbsp; | .RUred[gusta]/.RUred[gustan] &nbsp; &nbsp; &nbsp; | .RUred[Sujeto] |
+|:----------------------|:-------------|:---------------------|
+| Me                    | gust**an**   | los árboles          |
+| Te                    | gust**an**   | el tenis y el fútbol |
+| Le                    | gust**an**   | los deportes         |
+| Nos                   | gust**an**   | las clases           |
+| Os                    | gust**an**   | los edificios        |
+| Les                   | gust**an**   | las nubes            |
+
+.footnote[
+<sup>1</sup> Mentira.
+]
+
+---
+
+# ¿A ti qué te gusta hacer en tu tiempo libre?
+
+- montar en bicicleta 
+
+- jugar videojuegos 
+
+- practicar el tenis 
+
+- mirar una película de terror 
+
+- bailar en una fiesta 
+
+- ir de compras 
+
+- correr por el campus 
+
+- leer el periódico 
+
+- practicar el básquetbol
+
+---
+
+# ¿Con qué frecuencia...
+
+.pull-left[
+
+</br>
+</br>
+</br>
+</br>
+
+- vas de compras?
+
+- vas al cine?
+
+]
+
+.pull-right[
+
+</br>
+</br>
+</br>
+
+- a menudo
+
+- a veces
+
+- casi todos los días
+
+- casi nunca
+
+- nunca
+
+]
+
+---
+
+# El énfasis y aclaración con gustar y los nombres.
+
+| .RUred[Comp. Indirecto]  &nbsp; &nbsp; &nbsp; | .RUred[gusta]/.RUred[gustan] &nbsp; &nbsp; &nbsp; | .RUred[Sujeto] |
+|:---------------------|:-------------|:--------------|
+| **A mí** me          | gust**a**    | jugar al tenis|
+| **A ti** te          | gust**a**    | el tenis      |
+| **A él** le          | gust**a**    | el deporte    |
+| **A nosotros** nos   | gust**a**    | la clase      |
+| **A vosotros** os    | gust**a**    | Middlebury    |
+| **A ellas** les      | gust**a**    | la lluvia     |
+
+--
+
+<midd-blockquote>
+
+.center[
+### **A Carlos** .RUred[le] .black[gusta] .white[pasar su tiempo libre en la residencia,] 
+
+### .white[pero] **a Juan** .RUred[le] .black[gusta] .white[estudiar en su cuarto.]
+]
+
+</midd-blockquote>
+
+---
+
+# El énfasis y aclaración con gustar y los nombres.
+
+| .RUred[Comp. Indirecto]  &nbsp; &nbsp; &nbsp; | .RUred[gusta]/.RUred[gustan] &nbsp; &nbsp; &nbsp; | .RUred[Sujeto] |
+|:----------------------|:-------------|:--------------------|
+| **A mí** me           | gust**an**   | los árboles         |
+| **A ti** te           | gust**an**   | el tenis y el fútbol|
+| **A él** le           | gust**an**   | los deportes        |
+| **A nosotros** nos    | gust**an**   | las clases          |
+| **A vosotros** os     | gust**an**   | los edificios       |
+| **A ellas** les       | gust**an**   | las nubes           |
+
+--
+
+<midd-blockquote>
+
+.center[
+### **A Carlos** .RUred[le] .black[gustan] .white[los plátanos,] 
+
+### .white[pero] **a Juan** .RUred[le] .black[gustan] .white[las manzanas.]
+]
+
+</midd-blockquote>
+
+---
+
+# ¿A tus amigos y a ti les gusta...
+
+.pull-left[
+
+</br>
+</br>
+</br>
+
+- jugar videojuegos?
+
+- patinar sobre el hielo?
+
+- nadar?
+
+]
+
+.pull-right[
+
+</br>
+</br>
+</br>
+
+- Sí, nos gusta mucho.
+
+</br>
+
+- No, no tanto.
+
+]
+
+---
+
+# Cuando NO usamos gustar
+
+.center[
+
+![:scale 25%](./assets/img/jacobo.png)
+
+¿Me gusta el director?
+
+]
+
+- ¡NO! 
+
+--
+
+- Me cae bien el director.
+
+--
+
+- Me llevo bien con el director.
+
+---
+
+
+# Presentación de un compañero
+
+- Vais a hacer una presentación oral corta ~~el viernes~~ el lunes
+
+--
+
+- Duración de 1.30
+
+--
+
+- El enfoque será en las construcciones que hemos visto en clase
+
+--
+
+- Podéis hablar de lo que queráis, pero sugiero que os centréis en lo que hemos 
+visto en clase
+
+---
+
+# Preparación
+
+### Para preparar debéis:
+
+- Escoger un compañero
+
+- Quedar para hablar fuera de clase (si hace falta)
+
+- Utilizar nuestras estrategias para obtener información
+
+- Apuntar toda la información (verificar que es correcta)
+
+- Ensayar
+
+- **NO PODÉIS LEER**
+
+---
+
+# Estrategias para la comunicación oral  
+
+- ¡Ensayar! ¡Ensayar! ¡Ensayar!
+
+--
+
+- Hablar lentamente
+
+--
+
+- Vocaliza
+
+--
+
+- Practicad palabras largas por sílabas
+
+---
+class: title-slide-section-grey, middle, center
+
+# Respaso
+
+---
+
+# Esta semana
+
+### Hemos visto...
+
+- el tiempo presente
+
+- los verbos regulares
+
+- vocabulario relacionado con los amigos
+
+- los adjetivos 
+
+- la concordancia (sujeto/verbo, sustantivo/adjetivo)
+
+- los adjetivos posesivos
+
+- ser y estar
+

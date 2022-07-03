@@ -1,0 +1,861 @@
+---
+title       : "Español 1.5"
+subtitle    : "Capítulo 7"
+author      : "Joseph V. Casillas"
+date        : "Middlebury College | Verano 2021"
+output:
+  xaringan::moon_reader:
+    css: ["hygge", "middlebury", "middlebury-fonts"]
+    lib_dir: assets
+    self_contained: FALSE
+    nature:
+      beforeInit: ["https://www.jvcasillas.com/midd_xaringan/js/midd_xaringan.js", "https://platform.twitter.com/widgets.js"]
+      highlightStyle: monokai
+      highlightLines: TRUE
+      countIncrementalSlides: FALSE
+      ratio: "16:9"
+---
+
+```{r setup, include=FALSE, cache=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+# Un paso para atrás
+
+### ¿Qué habéis hecho...?
+
+.Large[
+
+- Cuéntale 2 cosas a tu compañero/a que has hecho
+  - hoy
+  - esta semana 
+  - este verano
+  - este año
+
+]
+
+--
+
+.Large[
+
+Ej.  
+Hoy **he desayunado** en Ross. 
+
+]
+
+---
+
+# El presente perfecto
+
+### Sirve para indicar cosas que **han pasado** y siguen siendo relevantes en el presente. 
+
+- ¿Has comprado el vino para la fiesta?
+- Sí, y también he preparado las tapas.
+- ¿Qué han hecho ustedes hoy?
+- Hemos trabajado mucho 
+
+--
+
+### El verbo haber
+
+.pull-left[
+
+- **haber** + participio pasado = el presente perfecto
+- **¡OJO!** ¡No se pronuncia la "h"!
+- **¡Recordad!** Algunos verbos son irregulares.
+
+]
+
+.pull-right[
+
+|     |    |          Singular          |    |              Plural               |
+| :-- | :- | :------------------------- | :- | :-------------------------------- |
+| 1a  |    | yo **he** trabajado        |    | nosotros **hemos** dormido        |
+| 2a  |    | tú **has** comido          |    | vosotros **habéis** dormido       |
+| 3a  |    | él/ella/usted **ha** visto |    | ellos/ellas/ustedes **han** hecho |
+| | &nbsp; &nbsp; | | &nbsp; &nbsp; | |
+
+]
+
+---
+
+# Repasito - pronombres
+
+.Large[
+
+- ¿Cuáles son los pronombres de <blue>complemento directo</blue>?
+
+]
+
+--
+
+.Large[
+
+- Concordancia de **género** y **número**
+
+]
+
+--
+
+<br><br>
+
+.Large[
+
+```{r results = 'asis', echo = FALSE, message = F, warning = F}
+library(dplyr)
+tribble(
+
+ ~Persona,       ~'&#160;', ~Singular,     ~'&nbsp;',  ~Plural,
+  '1a',           '',        '**me**',      '',        '**nos**', 
+  '2a',           '',        '**te**',      '',        '**os**', 
+  '3a',           '',        '**lo, la**',  '',        '**los, las**', 
+  'sustantivos',  '',        '**lo, la**',  '',        '**los, las**') %>%
+
+as.data.frame(.) %>% 
+pander::pandoc.table(., style = "rmarkdown", 
+                        justify = c('left', 'left', 'left', 'left', 'left'))
+```
+
+]
+
+---
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/img/think.png)
+background-size: 400px
+background-position: 95% 50%
+
+# Los pronombres después de preposiciones
+
+### ¿Recordáis?
+
+- (<blue>A</blue> **mí**) me gusta el chocolate. 
+
+--
+
+- (<blue>A</blue> **nosotros**) nos interesa el tema. 
+
+--
+
+- (<blue>A</blue> **ellas**) les motiva el tiempo. 
+
+--
+
+- Les parece bien la idea (<blue>a</blue> **ustedes**). 
+
+--
+
+### ¿Qué tienen en común?
+
+--
+
+- También son pronombres
+
+--
+
+- También aparecen detrás de otras preposiciones
+
+---
+
+# Los pronombres después de preposiciones
+
+.pull-left[
+
+- **Siah**: ¿Este café es <black>para mí</black>?
+- <blue>Merrick</blue>: ¿<black>Para ti</black>? ¡No! Ese café es <black>para ella</black>.
+
+<p></p>
+
+- **Sabrina**: ¿Quién habla <black>de nosotros</black>?
+- <blue>Beth</blue>: Sólo hablan <black>de ti</black>.
+
+<p></p>
+
+- **Dari**: ¿Vienes <black>con nosotras</black> al senderismo?
+- <blue>Corey</blue>: Sí. No quiero ir <black>sin ustedes</black>. 
+
+]
+
+--
+
+.pull-right[
+
+|       |                      |                       |
+| :---- | :------------------: | :-------------------- |
+| a     |                      | mí                    |
+| de    |                      | ti                    |
+| para  |                      | usted, él, ella       |
+| por   |          +           | nosotros/as           |
+| sin   |                      | vosotros/as           |
+| sobre |                      | ustedes, ellos, ellas |
+| | &#160; &#160; &#160; &#160; &#160; &#160; | |
+
+]
+
+--
+
+### ¡**Ojo**! Excepciones...
+
+--
+
+con + mí = conmigo  
+con + ti = contigo
+
+- **Audrey**: Oye, Cole. La fiesta es mañana. ¿Quieres ir <black>conmigo</black>?
+- <blue>Cole</blue>: No puedo ir <black>contigo</black>, Audrey. Todavía no tengo disfraz. 
+
+<p></p>
+
+--
+
+- **Entre tú y yo**, creo que miente. 
+
+---
+
+# Actividad
+
+### Haciendo planes
+
+- ir al cine/teatro  
+A: ***¿Cuándo puedes ir al cine conmigo?***  
+B: ***Nunca puedo ir contigo.***
+
+.pull-left[
+
+1. estudiar español
+
+2. ir a Dos Hermanos
+
+3. jugar al vóleibol
+
+4. preparar una fiesta para (alguien)
+
+5. asistir a la clínica de pronunciación
+
+6. comer en Proctor
+
+7. hacer la tarea por (alguien)
+
+]
+
+--
+
+.pull-right[
+
+|       |                      |                       |
+| :---- | :------------------: | :-------------------- |
+| a     |                      | mí                    |
+| de    |                      | ti                    |
+| para  |                      | usted, él, ella       |
+| por   |          +           | nosotros/as           |
+| sin   |                      | vosotros/as           |
+| sobre |                      | ustedes, ellos, ellas |
+| | &#160; &#160; &#160; &#160; &#160; &#160; | |
+| | | **con** + **mí** = .RUred[conmigo] |
+| | | **con** + **ti** = .RUred[contigo] |
+
+]
+
+---
+
+
+
+
+
+
+class: title-slide-section-grey, middle
+
+# El pretérito (verbos irregulares)
+
+---
+
+# Algunos verbos irregulares en el pretérito:
+
+|                  |    |    ir    |    |   ser    |    |   dar   |    |   ver   |
+| :--------------- | :- | :------- | :- | :------- | :- | :------ | :- | :------ |
+| yo               |    | fui      |    | fui      |    | di      |    | vi      |
+| tú               |    | fuiste   |    | fuiste   |    | diste   |    | viste   |
+| Ud./él/ella      |    | fue      |    | fue      |    | dio     |    | vio     |
+| nosotros(as)     |    | fuimos   |    | fuimos   |    | dimos   |    | vimos   |
+| vosotros(as)     |    | fuisteis |    | fuisteis |    | disteis |    | visteis |
+| Uds./ellos/ellas |    | fueron   |    | fueron   |    | dieron  |    | vieron  |
+| | &#160; &#160; | | &#160; &#160; | | &#160; &#160; | | &#160; &#160; | |
+
+---
+
+# Algunos verbos irregulares en el pretérito: 
+
+### Los verbos con .RUred[u] en la raíz
+
+
+|      estar      |    |     poder     |    |     poner     |    |     saber     |    |     tener     |
+| :-------------- | :- | :------------ | :- | :------------ | :- | :------------ | :- | :------------ |
+| estuv**e**      |    | pud**e**      |    | pus**e**      |    | sup**e**      |    | tuv**e**      |
+| estuv**iste**   |    | pud**iste**   |    | pus**iste**   |    | sup**iste**   |    | tuv**iste**   |
+| estuv**o**      |    | pud**o**      |    | pus**o**      |    | sup**o**      |    | tuv**o**      |
+| estuv**imos**   |    | pud**imos**   |    | pus**imos**   |    | sup**imos**   |    | tuv**imos**   |
+| estuv**isteis** |    | pud**isteis** |    | pus**isteis** |    | sup**isteis** |    | tuv**isteis** |
+| estuv**ieron**  |    | pud**ieron**  |    | pus**ieron**  |    | sup**ieron**  |    | tuv**ieron**  |
+| | &#160; &#160; | | &#160; &#160; | | &#160; &#160; | | &#160; &#160; | |
+
+---
+
+# Algunos verbos irregulares en el pretérito: 
+
+### Los verbos con .RUred[i] en la raíz
+
+|     hacer     |    |     querer     |    |     venir     |
+| :------------ | :- | :------------- | :- | :------------ |
+| hic**e**      |    | quis**e**      |    | vin**e**      |
+| hic**iste**   |    | quis**iste**   |    | vin**iste**   |
+| hiz**o**      |    | quis**o**      |    | vin**o**      |
+| hic**imos**   |    | quis**imos**   |    | vin**imos**   |
+| hic**isteis** |    | quis**isteis** |    | vin**isteis** |
+| hic**ieron**  |    | quis**ieron**  |    | vin**ieron**  |
+| | &#160; &#160; | | &#160; &#160; | |
+---
+
+# Algunos verbos irregulares en el pretérito: 
+
+### Los verbos con .RUred[j] en la raíz
+
+|     conducir     |    |     decir     |    |     traer      |
+| :--------------- | :- | :------------ | :- | :------------- |
+| conduj**e**      |    | dij**e**      |    | traj**e**      |
+| condu**jiste**   |    | di**jiste**   |    | tra**jiste**   |
+| condu**jo**      |    | di**jo**      |    | tra**jo**      |
+| condu**jimos**   |    | di**jimos**   |    | tra**jimos**   |
+| condu**jisteis** |    | di**jisteis** |    | tra**jisteis** |
+| condu**jeron**   |    | di**jeron**   |    | tra**jeron**   |
+| | &#160; &#160; | | &#160; &#160; | |
+---
+
+# ¿Qué pasó?
+
+<div align="center">
+  <video width="450" allowfullscreen controls>
+    <source src="./assets/videos/maya.mp4" type="video/mp4">
+    <source src="./assets/videos/maya.ogg" type="video/ogg">
+  </video>
+</div>
+
+---
+
+# El pretérito (irregulares)
+
+.pull-left[
+
+- tener
+- estar
+- ir
+- ser
+- poner
+- poder
+- traer
+- hacer
+
+]
+
+.pull-right[
+
+- haber
+- saber
+- querer
+- decir
+- venir
+- ver
+- dar
+
+]
+
+---
+
+# El pretérito (irregulares)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iFUAWMMdE7c" frameborder="0" allowfullscreen></iframe>
+
+---
+
+# El pretérito (irregulares)
+
+<div style="float: right">
+  <img width="450" src="./assets/img/cucaracha.jpg">
+</div>
+
+**tener** es tuve,  
+**estar** es estuve  
+**ir** es fui, y tambien **ser**  
+**poner** es puse, **poder** es pude  
+traje es para **traer**  
+
+
+**hacer** hice, **haber** hube  
+**saber** supe, **querer** quise  
+**decir** dije, **venir** vine  
+**ver** vi, **dar** di  
+sin acentos
+
+<audio controls>
+  <source src="./assets/videos/pretIrreg.ogg" type="audio/ogg">
+  <source src="./assets/videos/pretIrreg.m4a" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+.footnote[
+.Large[
+[¡Remix!](https://soundcloud.com/michaelgo/preteritos-remix-07-20-2021/s-XYInUcwrNWz)
+]
+]
+
+---
+
+# Cambios ortográficos en la forma yo
+
+### -car (buscar, tocar, sacar) 
+
+- c > qu
+- **toqué**, tocaste, tocó, tocamos, tocasteis, tocaron
+
+--
+
+### -gar (llegar, jugar, pagar) 
+
+- g > gu
+- **llegué**, llegaste, llegó, llegamos, llegasteis, llegaron
+
+--
+
+### -zar (empezar, almorzar) 
+
+- z > c
+- **empecé**, empezaste, empezó, empezamos, empezasteis, empezaron
+
+---
+
+# Los verbos de –er y –ir con una vocal: Leer, creer y caerse
+
+### Leer
+
+- leí, leíste, le**y**ó, leímos, leísteis, le**y**eron
+
+--
+
+### Creer
+
+- creí, creíste, cre**y**ó, creímos, creísteis, cre**y**eron
+
+--
+
+### Caerse
+
+- me caí, te caíste, se ca**y**ó, nos caímos, os caísteis, se ca**y**eron
+
+---
+
+# Verbos con cambios en la raíz en el pretérito: 
+
+|                  |     |       e > i        |     |     o > u     |
+| :--------------- | :-- | :----------------- | :-- | :------------ |
+|                  |     | <blue>div**e**rtirse</blue> | | <blue>d**o**rmir</blue>    |
+| yo               |     | me divertí         |     | dormí         |
+| tú               |     | te divertiste      |     | dormiste      |
+| Ud./él/ella      |     | se div**i**rtió    |     | d**u**rmió    |
+| nosotros(as)     |     | nos divertimos     |     | dormimos      |
+| vosotros(as)     |     | os divertisteis    |     | dormisteis    |
+| Uds./ellos/ellas |     | se div**i**rtieron |     | d**u**rmieron |
+| | &#160; &#160; &#160; | | &#160; &#160; &#160; | |
+
+</br>
+
+- ¡**OJO**!: Estos cambios sólo ocurren en la tercera persona (o segunda persona formal)  
+(Ud., él, ella y Uds., ellos, ellas)
+
+---
+
+# Hay verbos con significados particulares en el pretérito.
+
+<div align="center">
+  <img width="800" src="./assets/img/preterito10.png">
+</div>
+
+---
+background-image: url("http://nationalinterest.org/files/styles/main_image_on_posts/public/main_images/uss_new_jersey_6219214852.jpg?itok=gO7-Wwi6")
+background-position: 50% 65%
+background-size: 500px
+
+# Batalla naval
+
+- Poned vuestros barcos en el papel
+- Conjugad los verbos en el pretérito para hundir 
+los de tu compañer@
+
+---
+
+# Un repaso: el verbo gustar
+
+- El verbo gustar usa dos formas: **gusta y gustan**
+- Un complemento indirecto expresa **a quién** le gusta.  
+(**me, te, le, nos, os, les**)
+
+</br>
+
+- Me gusta la blusa.
+- A Sara le gustan las camisas. 
+
+---
+
+# Otros verbos como gustar: interesar y encantar
+
+- A Sara le gusta la clase de inglés. 
+
+- Me encanta la clase de biología. 
+
+- Nos interesan las ciencias. 
+
+</br>
+
+--
+
+|     |    |  **Singular** |    | <blue>Plural</blue> |
+| :-- | :- | :------------ | :- | :------------- | 
+| 1a  |    | <black>me</black> encanta(n) |    | <black>nos</black> encanta(n) |
+| 2a  |    | <black>te</black> encanta(n) |    | <black>os</black> encanta(n)  |
+| 3a  |    | <black>le</black> encanta(n) |    | <black>les</black> encanta(n) |
+| | &nbsp; &nbsp; &nbsp; | | &nbsp; &nbsp; &nbsp; | |
+
+|     |    |  **Singular**  |    | <blue>Plural</blue> |
+| :-- | :- | :------------- | :- | :------------------ |
+| 1a  |    | <black>me</black> interesa(n) |    | <black>nos</black> interesa(n)     |
+| 2a  |    | <black>te</black> interesa(n) |    | <black>os</black> interesa(n)      |
+| 3a  |    | <black>le</black> interesa(n) |    | <black>les</black> interesa(n)     |
+| | &nbsp; &nbsp; &nbsp; | | &nbsp; &nbsp; &nbsp; | |
+
+---
+
+# Otros verbos como gustar: importar, faltar y quedar
+
+### Importar > importa / importan
+
+- A Marisa no le importa el precio.
+
+<p></p>
+
+--
+
+### Faltar > falta / faltan
+
+- Les falta un dólar.
+
+<p></p>
+
+--
+
+### Quedar > queda / quedan
+
+- No me quedan más suéteres azules
+
+---
+
+# Otros verbos como gustar: parecer 
+
+### ¡**OJO**! Va acompañado de un adjetivo.
+
+- **Nos** *parecen* ***caros*** *esos pantalones*. 
+- Pantalones > masculino, plural
+
+<p></p>
+
+--
+
+- Me pareció divertid**a** la película.
+- la película > femenina, singular
+
+<p></p>
+
+--
+
+### ¿Qué te parece(n)...
+
+- el club de cocina?
+- las fiestas en el grill?
+- la comida de proctor?
+- los partidos de fútbol?
+
+---
+
+# Otros verbos como gustar: quedar 
+
+### Se puede utilizar para hablar de la ropa
+
+- Se usa con bien / mal.
+- Me quedan **bien** esos pantalones.
+
+<p></p>
+
+--
+
+- Se usa con los adjetivos para describir más.
+- Le quedan **un poco apretados** esos zapatos.
+
+---
+
+# Verbos como gustar
+
+.pull-left[
+
+### ¿Qué tienen en común?
+
+]
+
+.pull-right[
+
+- gustar
+- encantar
+- interesar
+- importar
+- faltar
+- parecer
+- quedar
+
+]
+
+--
+
+.footnote[el complemento indirecto]
+
+---
+
+# Ahora prueba tú
+
+### Construye preguntas y respuestas con estos componentes
+
+Ej. parecer/el libro de Cervantes/a tu amiga  
+--
+
+¿Qué **le** .RUred[parece] .grey[el libro de Cervantes] **a tu amiga**?  
+--
+
+(**A mi amiga**) **le** .RUred[parece] muy .grey[aburrido]. 
+
+--
+
+1. parecer/las clases de filosofía/a ti
+2. parecer/los amigos de mi novi@/a ti
+3. parecer/la cerveza switchback/a nosotros
+4. parecer/estos ejercicios/a ustedes
+5. parecer/la lluvia/a vosotros
+
+--
+
+¡Ahora pon las frases en el pasado!
+
+---
+
+# Ahora prueba tú
+
+### Construye preguntas y respuestas con estos componentes
+
+Ej. parecer/el libro de Cervantes/a tu amiga  
+¿Qué **le** .RUred[parece] .grey[el libro de Cervantes] **a tu amiga**?  
+(**A mi amiga**) **le** .RUred[parece] muy .grey[aburrido]. 
+
+1. parecer/las clases de filosofía/a ti  
+.grey[¿Qué te parecen las clases de filosofía?<br> Me parecen fantásticas.]
+2. parecer/los amigos de mi novi@/a ti  
+.grey[¿Qué te parecen los amigos de mi novia?<br> Me parecen divertidos.]
+3. parecer/la cerveza switchback/a nosotros  
+.grey[¿Qué nos parece las cerveza switchback?<br> Nos parece deliciosa.]
+4. parecer/estos ejercicios/a ustedes  
+.grey[¿Qué les parecen estos ejercicios?<br> Nos parecen difíciles.]
+5. parecer/la lluvia/a vosotros  
+.grey[¿Qué os parece la lluvia?<br> ¡Nos parece fatal!]
+
+---
+
+# Ahora prueba tú
+
+### Construye preguntas y respuestas con estos componentes
+
+
+Ej. parecer/el senderismo/a los estudiantes (encantar)  
+--
+
+¿Qué **les** .RUred[parece] .grey[el senderismo] **a los estudiantes**?  
+--
+
+(**A los estudiantes**) **les** .RUred[encanta] (.grey[el senderismo]). 
+
+--
+
+1. parecer/la tarea/a los niños (encantar)
+2. parecer/Jeff Bezos/a ti (interesar/no interesar)
+3. parecer/el cambio climático/a la juventud (important/no importar)
+4. parecer/las fiestas de la escuela de español/a ustedes (dar igual)
+5. parecer/la poesía de Neruda/a nosotros (fascinar)
+
+--
+
+¡Ahora pon las frases en el pasado!
+
+---
+
+# Ahora prueba tú
+
+### Construye preguntas y respuestas con estos componentes
+
+Ej. parecer/el senderismo/a los estudiantes (encantar)  
+¿Qué **les** .RUred[parece] .grey[el senderismo] **a los estudiantes**?  
+(**A los estudiantes**) **les** .RUred[encanta] (.grey[el senderismo]). 
+
+1. parecer/la tarea/a los niños (encantar)  
+.grey[¿Qué les parece la tarea a los niños?<br>A los niños les encanta la tarea.]
+2. parecer/Jeff Bezos/a ti (interesar/no interesar)  
+.grey[¿Qué te parece Jeff Bezos?<br>A mí no me interesa Jeff Bezos para nada.]
+3. parecer/el cambio climático/a la juventud (important/no importar)  
+.grey[¿Qué le parece el cambio climático a la juventud?<br>A la juventud le importa mucho.]
+4. parecer/las fiestas de la escuela de español/a ustedes (dar igual)  
+.grey[¿Qué les parecen las fiestras de la escuela de español a ustedes?<br>A nosotros nos dan igual las fiestas.]
+5. parecer/la poesía de Neruda/a nosotros (fascinar)  
+.grey[¿Qué nos parece la poesía de Neruda a nosotros?<br>¡A nosotros nos fascina!]
+
+---
+
+
+
+
+
+
+
+
+
+
+
+.large[
+
+Martín le escribe una carta a su mejor amigo Javier para contarle lo que hizo durante el fin de semana en la Escuela Española de Middlebury College. Conjuga los verbos en el pretérito.  
+
+Hola Javier,  
+
+Ya llevo 3 semanas en la Escuela Española y creo que he aprendido mucho. El fin de semana pasado ______________ (1. estar) genial. El viernes por la noche mis amigos y yo fuimos a un concierto de poesía y jazz. A mí no ______________ (2. gustar (me)) mucho la poesía, pero los músicos ______________ (3. tocar) muy bien. Después, ______________ (4. caminar (yo)) al Grill para tomar un batido de chocolate. ______________ (5. encontrarse (yo)) con unos amigos de mi clase de Comunicación y ______________ (6. salir (nosotros)) para Dos Hermanos. El sábado por la noche ______________ (7. cantar (yo)) una canción en español en la fiesta de karaoke. Luego, ______________ (8. beber) dos o tres cervezas y ______________ (9. regresar) a mi habitación. Fue un fin de semana divertido. Espero que el siguiente sea igual.
+Un saludo,
+Martín
+
+]
+
+---
+
+.large[
+
+Martín le escribe una carta a su mejor amigo Javier para contarle lo que hizo durante el fin de semana en la Escuela Española de Middlebury College. Conjuga los verbos en el pretérito.  
+
+Hola Javier,  
+
+Ya llevo 3 semanas en la Escuela Española y creo que he aprendido mucho. El fin de semana pasado **estuvo** genial. El viernes por la noche mis amigos y yo fuimos a un concierto de poesía y jazz. A mí no **gustó** mucho la poesía, pero los músicos **tocaron** muy bien. Después, **caminé** al Grill para tomar un batido de chocolate. **Me encontré** con unos amigos de mi clase de Comunicación y **salimos** para Dos Hermanos. El sábado por la noche **canté** una canción en español en la fiesta de karaoke. Luego, **bebí** dos o tres cervezas y **regresé** a mi habitación. Fue un fin de semana divertido. Espero que el siguiente sea igual.  
+
+Un saludo,  
+Martín
+]
+
+
+
+
+
+
+
+
+---
+
+# Resumen - los tiempos verbales
+
+### Las conversaciones normalmente incluyen el presente, el pasado y el futuro.
+
+**Carmen**: Oye, Silvia, ¿Qué <black>vas a hacer</black> este fin de semana?  
+
+.RUred[Silvia]: ¡<black>Voy a estudiar</black>! La próxima semana <black>va a ser</black> muy ajetreada.  
+
+**Carmen**: Chica, prácticamente <black>vives</black> en la biblioteca.  
+
+.RUred[Silvia]: Sí, <black>es</black> cierto. Pero, ¿sabes?, <black>me gusta estudiar</black>. Mis clases <black>son</black> muy interesantes y <black>me encantan</black> mis profesores.  
+
+**Carmen**: ¿Y el profesor Suárez?  
+
+.RUred[Silvia]: Bueno, él sí <blac>es</blac> quisquilloso. La semana pasada nos <black>dio</black> un examen sobre la época medieval y <black>fue</black> dificilísimo. 
+
+---
+
+# Resumen - los tiempos verbales
+
+### El futuro puede expresarse con verbos en el tiempo presente.
+
+- Ir + a + infinitivo
+  - **Voy a estudiar** este fin de semana.
+
+--
+
+- Expresiones del futuro
+  - La próxima semana
+  - el año que viene
+
+--
+
+- Otros verbos que expresan el futuro
+  - **Pienso vivir** en la residencia el próximo semestre.
+  - **Espero trabajar** en un banco en el futuro. 
+
+---
+
+# Resumen - los tiempos verbales
+
+### El tiempo presente expresa las costumbres de la vida diaria.
+
+--
+
+- Palabras importantes: 
+  - todos los días, frecuentemente, a menudo, a veces  
+
+Todos los días estudio por dos o tres horas.
+
+---
+
+# Resumen - los tiempos verbales
+
+### Se usa **el pretérito** para expresar el pasado.  
+
+
+- UNA acción o evento que ocurrió UNA vez.
+
+--
+
+- una SERIE de acciones en el pasado.
+
+--
+
+- una acción que DURÓ un tiempo específico.
+
+--
+
+- UN EVENTO ESPECÍFICO en el pasado.
+
+</br>
+
+**Palabras asociadas al pretérito:**
+
+--
+
+- ayer, la semana pasada, el año pasado, primero, luego
+- antes de/después de + infinitivo, por último
+
+---
+
+# Ahora, identifiquen los tiempos verbales en esta conversación:
+
+**Carmen**: Oye, Silvia, ¿Qué <black>vas a hacer</black> este fin de semana?  
+
+.RUred[Silvia]: ¡<black>Voy a estudiar</black>! La próxima semana <black>va a ser</black> muy ajetreada.  
+
+**Carmen**: Chica, prácticamente <black>vives</black> en la biblioteca.  
+
+.RUred[Silvia]: Sí, <black>es</black> cierto. Pero, ¿sabes?, <black>me gusta estudiar</black>. Mis clases <black>son</black> muy interesantes y <black>me encantan</black> mis profesores.  
+
+**Carmen**: ¿Y el profesor Suárez?  
+
+.RUred[Silvia]: Bueno, él sí <blac>es</blac> quisquilloso. La semana pasada nos <black>dio</black> un examen sobre la época medieval y <black>fue</black> dificilísimo. 
