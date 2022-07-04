@@ -13,10 +13,18 @@
     <textarea id="source">
 class: center, middle, inverse, title-slide
 
+.title[
 # Español 1.5
+]
+.subtitle[
 ## Introducción
+]
+.author[
 ### Joseph V. Casillas
-### Middlebury College | Verano 2021
+]
+.date[
+### Middlebury College | Verano 2022
+]
 
 ---
 
@@ -71,6 +79,13 @@ class: title-slide-section-grey
 
 ---
 background-image: url("./assets/img/niko.png")
+background-size: contain
+class: title-slide-section-grey
+
+# .white[Soy padre]
+
+---
+background-image: url("./assets/img/niko2.png")
 background-size: contain
 class: title-slide-section-grey
 
@@ -138,7 +153,7 @@ background-image: url(./assets/img/sd.png)
 background-size: contain
 class: title-slide-section-grey
 
-# .RUred[Es mi verano \#12 en Middlebury.]
+# .RUred[Es mi verano \#13 en Middlebury.]
 
 ---
 
@@ -228,14 +243,10 @@ background-size: contain
 
 .right-column[
 
-## Texto:
-
-- Mosaicos: Spanish as a World Language (ebook with access to MySpanishLab/online homework. ISBN-13: 9780135595046, Edition: 7th edition (2020)  
-Authors: Elizabeth Guzmán, Paloma Lapuerta, Judith Liskin-Gasparro, Matilde Castells
-
-## Online Materials: 
+## Materiales: 
 
 - Materiales en internet a través de go.middlebury.edu/hub
+
 ]
 
 ---
@@ -249,6 +260,8 @@ Authors: Elizabeth Guzmán, Paloma Lapuerta, Judith Liskin-Gasparro, Matilde Cas
 ]
 
 .right-column[
+
+- Rosario Alonso Raya, et al. Gramática básica del estudiante de español A1-B1
 
 - Un diccionario bilingüe como por ejemplo: Diccionario Oxford Compacto 
 
@@ -286,7 +299,6 @@ de conjugar en español**.  Mateo &amp; Rojo Sastre
 
 &lt;/br&gt;
 &lt;/br&gt;
-
 
 |         |        |        |       |
 |:--------|-------:|:-------|------:|
@@ -349,11 +361,9 @@ class: center, middle
 
 # Hablemos de los detalles...
 
-### Zoom
-
 ### Canvas
 
-### myLab
+### Zoom
 
 ---
 
@@ -401,7 +411,7 @@ oral.
   &lt;img src="./assets/img/exito.png"&gt;
 &lt;/div&gt;
 
-- [Actividades cocurriculares](https://schoolofspanish.middcreate.net/elboletin/actividades-co-curriculares/)  
+- [Actividades cocurriculares](https://schoolofspanish.middcreate.net/service/actividades-co-curriculares/)  
 	- el teatro
 	- el baile
 	- **la clínica de pronunciación**
@@ -533,6 +543,19 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
     deleted = true;
   });
 })();
+// add `data-at-shortcutkeys` attribute to <body> to resolve conflicts with JAWS
+// screen reader (see PR #262)
+(function(d) {
+  let res = {};
+  d.querySelectorAll('.remark-help-content table tr').forEach(tr => {
+    const t = tr.querySelector('td:nth-child(2)').innerText;
+    tr.querySelectorAll('td:first-child .key').forEach(key => {
+      const k = key.innerText;
+      if (/^[a-z]$/.test(k)) res[k] = t;  // must be a single letter (key)
+    });
+  });
+  d.body.setAttribute('data-at-shortcutkeys', JSON.stringify(res));
+})(document);
 (function() {
   "use strict"
   // Replace <script> tags in slides area to make them executable
