@@ -20,7 +20,7 @@ library("glue")
 
 dir_ls(regexp = "^[0-9]") %>% 
   as_tibble() %>% 
-  mutate(value = glue("- [Semana {value}](www.midd.jvcasillas.com/slides/{value}/)")) %>% 
+  mutate(value = glue("- [Semana {value}](https://www.midd.jvcasillas.com/slides/{value}/)")) %>% 
   pull(value)
 ```
 
