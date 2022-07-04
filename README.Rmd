@@ -1,0 +1,26 @@
+---
+title: "Presentaciones 1.5"
+output: github_document
+date: 'Última actualización: `r Sys.Date()`'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#| label: links
+#| results: 'asis'
+#| echo: false
+#| message: false
+#| warning: false
+library("fs")
+library("tidyverse")
+library("glue")
+
+dir_ls(regexp = "^[0-9]") %>% 
+  as_tibble() %>% 
+  mutate(value = glue("- [Semana {value}](www.midd.jvcasillas.com/slides/{value}/)")) %>% 
+  pull(value)
+```
+
