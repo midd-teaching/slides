@@ -470,11 +470,352 @@ background-size: contain
 - Tened en cuenta la entonación
 ]
 
+---
+class: title-slide-section-blue
+
+---
 
 
 
 
 
+
+
+
+class: inverse, middle, center
+
+# Los verbos .RUred[regulares]
+
+---
+
+# Los verbos regulares
+
+### Estamos muy ocupados entre semana.
+
+<div align="center">
+  <img src="./assets/img/rutina.png">
+</div>
+
+---
+
+# Los verbos regulares
+
+### Paso la semana en la universidad.
+
+<div align="center">
+  <img src="./assets/img/rutina2.png">
+</div>
+
+---
+
+# ¿Cómo es tu rutina?
+
+.pull-left[
+
+</br>
+</br>
+</br>
+
+- Normalmente yo...  
+
+- A veces yo... 
+
+]
+
+.pull-right[
+
+</br>
+
+- paso mucho tiempo en el facebook.
+
+- voy al gimnasio por la mañana/por la tarde.
+
+- escucho música/mi iPod.
+
+- limpio el cuarto/el apartamento.
+
+- preparo la comida.
+
+- tomo café con mis amigos.
+
+]
+
+---
+
+<!-- act 1-26 -->
+<div align="center">
+  <img width="575" src="./assets/img/rutinaamigo.png">
+</div>
+
+---
+
+# El tiempo presente expresa...
+
+</br>
+
+### ...una rutina
+
+--
+
+- Estudio en la biblioteca todos los días.
+
+--
+
+### ...una acción continua
+
+--
+
+- Mi amiga vive en una residencia este semestre.
+
+--
+
+### ...una acción en el futuro
+
+--
+
+- Mis compañeros van a una fiesta mañana.
+
+---
+
+# Los verbos regulares
+
+### Hay tres tipos de infinitivos: -ar, -er, -ir
+
+.Large[
+|                     |    | -ar         |    | -er         |    | -ir           |
+| :------------------ | :- | :---------- | :- | :---------- | :- | :------------ |
+|                     |    | **tomar**   |    | **comer**   |    | **asistir**   |
+| yo                  |    | tom**o**    |    | com**o**    |    | asist**o**    |
+| tú                  |    | tom**as**   |    | com**es**   |    | asist**es**   |
+| él/ella/usted       |    | tom**a**    |    | com**e**    |    | asist**e**    |
+| nosotro(as)         |    | tom**amos** |    | com**emos** |    | asist**imos** |
+| vosotros(as)        |    | tom**áis**  |    | com**éis**  |    | asist**ís**   |
+| ellos/ellas/ustedes |    | tom**an**   |    | com**en**   |    | asist**en**   |
+| | &nbsp; &nbsp; &nbsp; | | &nbsp; &nbsp; &nbsp; | | &nbsp; &nbsp; &nbsp; | |
+]
+
+---
+
+# A practicar
+
+### Usa los verbos en el presente para hablar de...
+
+.Large[
+- .black[Tu rutina]  
+.grey[Normalmente desayuno a las 8, voy al gimnasio a las 9, trabajo a las 10, etc.]
+]
+
+--
+
+.Large[
+- .black[Una acción continua]  
+.grey[Veo la televisión todos los días.]
+]
+
+--
+
+.Large[
+- .black[Una acción en el futuro] (ir a + inf.)  
+.grey[Mañana voy a viajar.]
+]
+
+---
+
+# Algunos verbos regulares
+
+.pull-left[
+
+  **-ar**  
+  Adivinar  
+  Gastar  
+  Amar  
+  Apagar  
+  Ayudar  
+  Invitar  
+  Bailar  
+  Jugar  
+  Besar  
+  Lavar  
+  Cambiar  
+  Levantar  
+  Despertar  
+  Pasear  
+
+]
+
+.pull-right[
+
+  Dibujar  
+  Pensar  
+  Disfrutar  
+  Pintar  
+  Durar  
+  Practicar  
+  Echar  
+  Preguntar  
+  Empezar  
+  Prestar  
+
+]
+
+---
+
+# Algunos verbos regulares
+
+.pull-left[
+
+  **-er**  
+  Agradecer  
+  Llover  
+  Beber  
+  Nacer  
+  Caber  
+  Ofrecer  
+  Caer  
+  Perder  
+  Comer  
+  Prometer  
+  Comprender   
+
+]
+
+.pull-right[
+
+  **-ir**  
+  Abrir  
+  Partir  
+  Construir  
+  Pedir  
+  Corregir  
+  Prohibir  
+  Decidir  
+  Recibir  
+  Despedir  
+  Seguir  
+  Discutir  
+
+]
+
+
+
+
+
+
+
+
+
+
+---
+class: inverse, middle, center
+
+# ¿Qué es .RUred[el portafolio]?
+
+
+
+
+
+
+
+
+
+
+
+---
+class: inverse, middle, center
+
+# ¿Cómo se hace una .RUred[presentación]?
+
+---
+
+# Cómo elaborar un discurso
+
+### En la elaboración de un discurso se distinguen 5 etapas o pasos:
+
+--
+
+.Large[
+- **INVENCIÓN**: Búsqueda de documentación, argumentos y pruebas. Identificar el público oyente.
+]
+
+--
+
+.Large[
+- **DISPOSICIÓN**: Estructuración y organización del material recogido.
+]
+
+--
+
+.Large[
+- **ELOCUCIÓN**: Exposición o estilo del discurso mediante la búsqueda de vocabulario.
+]
+
+--
+
+.Large[
+- **MEMORIA**: Retención en la memoria de todo lo previamente preparado. No se lee.
+]
+
+--
+
+.Large[
+- **ACCIÓN**: Uso de gestos y tono de voz adecuados, la dramatización más conveniente/relevante al discurso en cuestión.
+]
+
+---
+
+# Cómo elaborar un discurso
+
+### Más consejos para una presentación oral
+
+--
+
+.Large[
+- ¡Ensayar! ¡Ensayar! ¡Ensayar!
+]
+
+--
+
+.Large[
+- Hablar lentamente
+]
+
+--
+
+.Large[
+- Vocales puras
+]
+
+--
+
+.Large[
+- Tensión bucal
+]
+
+--
+
+.Large[
+- Practicad palabras largas por sílabas
+]
+
+---
+
+# Cómo hacer una entrevista
+
+.Large[
+
+- **PREGUNTA**: haz preguntas que te dan información interesante
+
+- **ESCUCHA**: cuando tu compañero te da una respuesta interesante
+
+- **ENFOCA**: enfoca en esa respuesta y pregúntale más detalles sobre ese asunto
+
+- **AUMENTA**: sigue buscando información sobre el tema y otros temas relacionados
+
+- **DESARROLLA**: desarollo tu discurso sobre esta información
+
+]
+
+---
 
 
 
