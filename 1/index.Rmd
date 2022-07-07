@@ -27,6 +27,19 @@ xaringanExtra::use_xaringan_extra(
   c("tile_view", "freezeframe")
 )
 ```
+class: inverse, center, middle
+count: false
+
+# Descarga en formato PDF [aquí](https://www.midd.jvcasillas.com/slides/1/index.pdf)
+
+<!--
+pagedown::chrome_print(
+  input = here::here("1", "index.html"), 
+  output = here::here("1", "index.pdf")
+  )
+--> 
+
+---
 
 # Objetivos
 
@@ -1445,8 +1458,284 @@ background-size: contain
 
 ---
 
+# Ser vs. Estar
+
+### Ese señor es malo.  (no es simpático) </br>Ese señor está malo. (está enfermo)
+
+### La chica es lista. (es inteligente) </br>La chica está lista. (está preparada)
+
+### Las manzanas son verdes. (de color verde) </br>Las manzanas están verdes. (no están maduras)
+
+### La profesora es aburrida. </br>La profesora está aburrida.
+
+---
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+class: title-slide-section-blue
+
+---
+
+
+
+
+
+
+
+class: inverse, center, middle
+
+# El verbo .RUred[GUSTAR]
+
+---
+background-image: url(./assets/img/tiempolibre1.png)
+background-size: 900px
+background-position: 50% 70%
+
+# ¿Qué le gusta hacer en su tiempo libre?
+
+---
+background-image: url(./assets/img/tiempolibre2.png)
+background-size: 850px
+background-position: 50% 70%
+
+# ¿Qué le gusta hacer en su tiempo libre?
+
+---
+
+# El verbo gustar
+
+### El verbo gustar tiene DOS formas<sup>1</sup>: **gusta** y **gustan**
+
+.Large[
+| .RUred[Comp. Indirecto]  &nbsp; &nbsp; &nbsp; | .RUred[gusta]/.RUred[gustan] &nbsp; &nbsp; &nbsp; | .RUred[Sujeto] |
+|:----------------------|:-------------|:--------------|
+| Me                    | gust**a**    | jugar al tenis|
+| Te                    | gust**a**    | el tenis      |
+| Le                    | gust**a**    | el deporte    |
+| Nos                   | gust**a**    | la clase      |
+| Os                    | gust**a**    | Middlebury    |
+| Les                   | gust**a**    | la lluvia     |
+]
+
+.footnote[
+<sup>1</sup> Mentira.
+]
+
+---
+
+# El verbo gustar
+
+### El verbo gustar tiene DOS formas<sup>1</sup>: **gusta** y **gustan**
+
+.Large[
+| .RUred[Comp. Indirecto]  &nbsp; &nbsp; &nbsp; | .RUred[gusta]/.RUred[gustan] &nbsp; &nbsp; &nbsp; | .RUred[Sujeto] |
+|:----------------------|:-------------|:---------------------|
+| Me                    | gust**an**   | los árboles          |
+| Te                    | gust**an**   | el tenis y el fútbol |
+| Le                    | gust**an**   | los deportes         |
+| Nos                   | gust**an**   | las clases           |
+| Os                    | gust**an**   | los edificios        |
+| Les                   | gust**an**   | las nubes            |
+]
+
+.footnote[
+<sup>1</sup> Mentira.
+]
+
+---
+
+# ¿A ti qué te gusta hacer en tu tiempo libre?
+
+.Large[
+- montar en bicicleta 
+- jugar videojuegos 
+- practicar el tenis 
+- mirar una película de terror 
+- bailar en una fiesta 
+- ir de compras 
+- correr por el campus 
+- leer el periódico 
+- practicar el básquetbol
+]
+
+---
+
+# ¿Con qué frecuencia...
+
+.pull-left[
+
+</br>
+</br>
+</br>
+</br>
+
+### vas de compras?
+
+### vas al cine?
+
+]
+
+.pull-right[
+
+</br>
+</br>
+</br>
+
+### a menudo
+### a veces
+### casi todos los días
+### casi nunca
+### nunca
+
+]
+
+---
+
+# El énfasis y aclaración con gustar y los nombres.
+
+.Large[
+| .RUred[Comp. Indirecto]  &nbsp; &nbsp; &nbsp; | .RUred[gusta]/.RUred[gustan] &nbsp; &nbsp; &nbsp; | .RUred[Sujeto] |
+|:---------------------|:-------------|:--------------|
+| **A mí** me          | gust**a**    | jugar al tenis|
+| **A ti** te          | gust**a**    | el tenis      |
+| **A él** le          | gust**a**    | el deporte    |
+| **A nosotros** nos   | gust**a**    | la clase      |
+| **A vosotros** os    | gust**a**    | Middlebury    |
+| **A ellas** les      | gust**a**    | la lluvia     |
+]
+
+--
+
+<midd-blockquote>
+
+.center[
+### **A Carlos** .RUred[le] .black[gusta] .white[pasar su tiempo libre en la residencia,] </br>.white[pero] **a Juan** .RUred[le] .black[gusta] .white[estudiar en su cuarto.]
+]
+
+</midd-blockquote>
+
+---
+
+# El énfasis y aclaración con gustar y los nombres.
+
+.Large[
+| .RUred[Comp. Indirecto]  &nbsp; &nbsp; &nbsp; | .RUred[gusta]/.RUred[gustan] &nbsp; &nbsp; &nbsp; | .RUred[Sujeto] |
+|:----------------------|:-------------|:--------------------|
+| **A mí** me           | gust**an**   | los árboles         |
+| **A ti** te           | gust**an**   | el tenis y el fútbol|
+| **A él** le           | gust**an**   | los deportes        |
+| **A nosotros** nos    | gust**an**   | las clases          |
+| **A vosotros** os     | gust**an**   | los edificios       |
+| **A ellas** les       | gust**an**   | las nubes           |
+]
+
+--
+
+<midd-blockquote>
+
+.center[
+### **A Carlos** .RUred[le] .black[gustan] .white[los plátanos,] </br>.white[pero] **a Juan** .RUred[le] .black[gustan] .white[las manzanas.]
+]
+
+</midd-blockquote>
+
+---
+
+# ¿A tus amigos y a ti les gusta...
+
+.pull-left[
+
+</br>
+</br>
+</br>
+
+.Large[
+- jugar videojuegos?
+
+- patinar sobre el hielo?
+
+- nadar?
+]
+]
+
+.pull-right[
+
+</br>
+</br>
+</br>
+
+.Large[
+- Sí, nos gusta mucho.
+]
+
+</br>
+
+.Large[
+- No, no tanto.
+]
+]
+
+---
+
+# Cuando NO usamos gustar
+
+.center[
+
+![:scale 25%](./assets/img/jacobo.png)
+
+.Large[.black[¿Me gusta el director?]]
+
+]
+
+.Large[
+- ¡NO! 
+- Me cae bien el director.
+- Me llevo bien con el director.
+]
+
+
+
+
+
+
+
+
+
+---
+class: inverse, middle, center
+exclude: false
+
+# Repaso
+
+---
+exclude: false
+
+# Lo que hemos visto...
+
+.Large[
+- Mucho vocabulario
+- Los sustantivos
+- Los artículos (definidos, indefinidos)
+- La concordancia
+  - artículo-sustantivo
+  - sustantivo-adjetivo
+  - sujeto-verbo
+- Los pronombres personales
+- El abecedario
+- Ser y estar
+- El presente
+]
 
 
 
@@ -1466,25 +1755,15 @@ background-size: contain
 
 
 ---
-exclude: true
+exclude: false
 class: inverse, center, middle
 
-# Práctica extra
+# ¿Así que quieres más?
 
 ### Para sobrevivir
 
 ---
-exclude: true
-# Plan
-
-- Para presentarnos
-- Instrucciones básicas
-- Para hablar con la gente
-
-<!-- p5 -->
-
----
-exclude: true
+exclude: false
 
 # Para presentarnos
 
@@ -1505,17 +1784,17 @@ exclude: true
 - ¿Sabéis otras opciones?
 
 --
-exclude: true
+exclude: false
 
 - Mi nombre es Sara
 
 --
-exclude: true
+exclude: false
 
 - ~~Me llamo es Sara~~
 
 ---
-exclude: true
+exclude: false
 
 # ¿Qué se dice?
 
@@ -1525,30 +1804,11 @@ exclude: true
 - Pensad en situaciones típicas que puedan pasar aquí en Middlebury.
 
 ---
-exclude: true
-
-# La clase
-
-<div align="center">
-  <img src="./assets/img/sala1.png">
-</div>  
-
-<!-- actividad VEO VEO -->
-
----
-background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/img/tired.png)
-background-position: 95% 50%
-class: inverse, middle, center
-exclude: true
-
-# Descanso (10 minutos)
-
----
 background-image: url(./assets/img/abc.png)
 background-size: contain
 background-position: 120%
 class: title-slide-section-blue
-exclude: true
+exclude: false
 
 # El abecedario
 
@@ -1556,7 +1816,7 @@ exclude: true
 background-image: url(./assets/img/sala1.png)
 background-size: 750px
 background-position: 50% 80%
-exclude: true
+exclude: false
 
 # ¿Qué es esto? ¿Cómo se escribe?
 
@@ -1565,7 +1825,7 @@ background-image: url(./assets/img/ahorcado.gif)
 background-size: contain
 background-position: 120%
 class: title-slide-section-blue
-exclude: true
+exclude: false
 
 # El ahorcado
 
@@ -1573,7 +1833,7 @@ exclude: true
 background-image: url(./assets/img/viki.png)
 background-size: 550px
 background-position: 90% 40%
-exclude: true
+exclude: false
 
 # Intercambiar información básica
 
@@ -1589,41 +1849,15 @@ exclude: true
 
 ---
 class: inverse, middle, center
-exclude: true
-
-# Repaso
-
----
-exclude: true
-
-# Lo que hemos visto...
-
-- Vocabulario
-
-- Repaso general
-
-- El abecedario
-
-- Los números
-
---
-exclude: true
-
-## Lo que hemos usado...
-
-- El presente
-
----
-class: inverse, middle, center
 count: false
-exclude: true
+exclude: false
 
 # ¿Quieres un poco más?
 
 ---
 class: inverse, middle, center
 count: false
-exclude: true
+exclude: false
 
 # Los números
 
@@ -1631,7 +1865,7 @@ exclude: true
 background-image: url(./assets/img/num_1_20.png)
 background-size: 800px
 background-position: 95%
-exclude: true
+exclude: false
 
 # Los números
 
@@ -1639,7 +1873,7 @@ exclude: true
 background-image: url(./assets/img/num_10_100.png)
 background-size: 800px
 background-position: 95%
-exclude: true
+exclude: false
 
 # Los números
 
@@ -1647,7 +1881,7 @@ exclude: true
 background-image: url(./assets/img/sala2.png)
 background-size: 700px
 background-position: 95% 80%
-exclude: true
+exclude: false
 
 # ¿Cuántos objetos hay en la sala de clase?
 
@@ -1670,14 +1904,14 @@ exclude: true
 ---
 class: inverse, middle, center
 count: false
-exclude: true
+exclude: false
 
 # Vocabulario de la clase
 
 ---
 background-image: url(./assets/img/clase.png)
 background-size: 650px
-exclude: true
+exclude: false
 
 # Vocabulario útil de la clase 
 
@@ -1686,7 +1920,7 @@ exclude: true
 Discutir imagen, se entiende?, qué falta?
 
 ---
-exclude: true
+exclude: false
 
 # Instrucciones básicas
 
@@ -1706,7 +1940,7 @@ exclude: true
 background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/img/confused.png)
 background-position: 95% 30%
 background-size: 300px
-exclude: true
+exclude: false
 
 # Para hablar con la gente (1)
 
@@ -1722,7 +1956,7 @@ exclude: true
 background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/img/frustration.png)
 background-position: 95% 30%
 background-size: 300px
-exclude: true
+exclude: false
 
 # Para hablar con la gente (2)
 
@@ -1737,53 +1971,7 @@ exclude: true
 - Tengo una pregunta.
 
 ---
-background-image: url(./assets/img/vc1.png)
-background-size: 650px
-background-position: 50% 70%
-exclude: true
-
-# Vocabulario útil de la clase (versión zoom)
-
-### ¿Qué palabras, frases, expresiones son importantes para nuestra clase virtual?
-
----
-exclude: true
-background-image: url(./assets/img/vc2.png)
-background-size: contain
-
----
-exclude: true
-background-image: url(./assets/img/vc3.png)
-background-size: contain
-
----
-exclude: true
-
-# Vocabulario útil de la clase (versión zoom)
-
-### Con un compañero/a, pensad en vocabulario útil para nuestro ambiente en línea
-
-???
-
-White board para dibujar objetos, escribir palabras
-Breakout rooms para conversar
-
----
-class: middle, center
-exclude: true
-
-# Saludos
-
-# Presentarse, despedirse
-
-???
-
-actividad en whiteboard, 
-lluvia de ideas, 
-buscar lo que tienen en común (buscar ser)
-
----
-exclude: true
+exclude: false
 
 # Estrategias para aprender vocabulario
 
@@ -1799,15 +1987,55 @@ exclude: true
 - Usarlas interactivamente
 - Memorízalas
 
+---
+clase: inverse, center, middle
+
+# Aún más pronombres
 
 ---
-class: inverse, center, middle
+class: middle
 
-# Descarga en formato PDF [aquí](https://www.midd.jvcasillas.com/slides/1/index.pdf)
+# Pronombres de sujeto
 
-<!--
-pagedown::chrome_print(
-  input = here::here("1", "index.html"), 
-  output = here::here("1", "index.pdf")
-  )
---> 
+.Large[
+
+|            |  Singular       | Plural                |
+| :--------- | :-------------- | :-------------------- |
+| 1a persona | yo              | nosotros, nosotras    |
+| 2a persona | tú              | vosotros, vosotras    |
+| 3a persona | él, ella, usted | ellos, ellas, ustedes |
+
+]
+
+???
+
+Hemos visto los pronombres personales y posesivos en clase, pero hay otros tipos de prombres que veremos más adelante. 
+
+En las siguientes diapositivas verás unos cuantos. 
+Los pongo aquí para que los reconozcáis. 
+Dentro de poco los estudiaremos en más detalle. 
+
+---
+class: middle
+
+### Pronombres de objeto directo
+
+.Large[
+|            |  Singular |  Plural |
+| :--------- | :-------- | :------ |
+| 1a persona | me        | nos     |
+| 2a persona | te        | os      |
+| 3a persona | lo, la    | los las |
+]
+
+--
+
+### Pronombres de objeto indirecto
+
+.Large[
+|            |  Singular |  Plural |
+| :--------- | :-------- | :------ |
+| 1a persona | me        | nos     |
+| 2a persona | te        | os      |
+| 3a persona | le        | les     |
+]
