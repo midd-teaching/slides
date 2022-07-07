@@ -1800,5 +1800,14 @@ exclude: true
 - Memorízalas
 
 
-
 ---
+class: inverse, center, middle
+
+# Descarga en formato PDF [aquí](https://www.midd.jvcasillas.com/slides/1/index.pdf)
+
+<!--
+pagedown::chrome_print(
+  input = here::here("1", "index.html"), 
+  output = here::here("1", "index.pdf")
+  )
+--> 

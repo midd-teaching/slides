@@ -1810,8 +1810,17 @@ exclude: true
 - Memorízalas
 
 
-
 ---
+class: inverse, center, middle
+
+# Descarga en formato PDF [aquí](https://www.midd.jvcasillas.com/slides/1/index.pdf)
+
+&lt;!--
+pagedown::chrome_print(
+  input = here::here("1", "index.html"), 
+  output = here::here("1", "index.pdf")
+  )
+--&gt; 
     </textarea>
 <style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
 <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
