@@ -569,7 +569,7 @@ class: title-slide-section-blue, center, middle
 
 ---
 
-<iframe src="https://create.kahoot.it/share/por-y-para/cc0816e1-ac63-4c69-89b6-c8a76641c27f" width="1000" height="600" style="border:none;"></iframe>
+<iframe src="https://play.kahoot.it/v2/?quizId=cc0816e1-ac63-4c69-89b6-c8a76641c27f" width="1000" height="600" style="border:none;"></iframe>
 
 
 
@@ -772,6 +772,8 @@ exclude: true
 ### Primeros pasos
 
 --
+
+exclude: true
 
 - Escoge tu plato favorito (o un plato que *no* te guste)
 - ¿Por qué te gusta? (o no)
