@@ -576,13 +576,13 @@ class: title-slide-section-blue
 # Amigo secreto
 
 .pull-left[
-- .Large[Para quién es este regalito?]
+- .Large[¿Para quién es este regalito?]
 
-- .Large[Por qué eliges este regalo?]
+- .Large[¿Por qué eliges este regalo?]
 
-- .Large[Por qué quieres dárselo?]
+- .Large[¿Por qué quieres dárselo?]
 
-- .Large[Para qué sirve este regalo?]
+- .Large[¿Para qué sirve este regalo?]
 ]
 
 .pull-right[
