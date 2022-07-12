@@ -658,6 +658,22 @@ terror...)
 ]
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+class: title-slide-section-blue
+
+---
 exclude: false
 background-image: url(./assets/img/1a.png)
 background-size: contain
@@ -688,10 +704,295 @@ background-size: contain
 
 
 
-class: title-slide-section-blue
+exclude: false
+class: inverse, center, middle
+
+# Saber vs. conocer
+
+---
+exclude: false
+
+# Saber vs. conocer
+
+## Saber: se utiliza para información
+
+.Large[
+- Sé la respuesta
+
+- Sé hacer reservaciones en línea.
+
+- ¿Sabes dónde está el banco?
+]
+
+--
+exclude: false
+
+## Conocer: se utiliza para las personas y los lugares
+
+.Large[
+- Conozco Nueva Orleans.
+
+- ¿Conoces al agente de viajes?
+]
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+class: inverse, middle
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/scared.gif)
+background-position: 100% 50%
+background-size: 400px
+
+# Más verbos irregulares
+
+---
+
+# Verbos irregulares
+
+## Verbos con cambio en la raíz
+
+.Large[
+| El infinitivo | la raíz |     |   el cambio    |    Ej.    |
+| :------------ | :-----: | :-: | :------------: | :-------- |
+| &nbsp;        |         |     |                |           |
+| pensar        | pens-   |     | p.RUred[ie]ns  | Yo pienso |
+|               | **e**   |  →  | **ie**         |           |
+| &nbsp;        |         |     |                |           |
+| volver        | volv-   |     | v.RUred[ue]lv- | Yo vuelvo |
+|               | **o**   |  →  | **ue**         |           |
+| &nbsp;        |         |     |                |           |
+| pedir         | ped-    |     | p.RUred[i]d-   | Yo pido   |
+|               | **e**   |  →  | **i**          |           |
+]
+
+---
+
+# Verbos irregulares
+
+## Los verbos con el cambio **e** → **ie**
+
+.center[
+.Large[
+|     Pensar    |             | &nbsp; |                     |             |
+| :------------ | :---------- | :----- | :------------------ | :---------- |
+| yo            | p**ie**nso  |        | nosotros            | pensamos    |
+| tú            | p**ie**nsas |        | vosotros            | pensáis     |
+| él/ella/usted | p**ie**nsa  |        | ellos/ellas/ustedes | p**ie**nsan |
+]
+]
+
+--
+
+.pull-left[
+
+### Ejemplos
+
+.Large[
+- emp.RUred[e]zar
+- pref.RUred[e]rir
+- qu.RUred[e]rer
+- recom.RUred[e]ndar
+]
+]
+
+.pull.right[
+</br></br>
+.Large[
+.center[
+¡.RUred[OJO]! No hay cambio en las formas de **nosotros**/**vosotros**
+]
+]
+]
+
+---
+
+# Verbos irregulares
+
+## Los verbos con el cambio **o** → **ue**
+
+.center[
+.Large[
+|     Volver    |             | &nbsp; |                     |             |
+| :------------ | :---------- | :----- | :------------------ | :---------- |
+| yo            | v**ue**lvo  |        | nosotros            | volvemos    |
+| tú            | v**ue**lves |        | vosotros            | volvéis     |
+| él/ella/usted | v**ue**lve  |        | ellos/ellas/ustedes | v**ue**lven |
+]
+]
+
+--
+
+.pull-left[
+### Ejemplos
+
+.Large[
+- c.RUred[o]star
+- p.RUred[o]der
+- d.RUred[o]rmir
+]
+]
+
+.pull.right[
+</br></br>
+.Large[
+.center[
+¡.RUred[OJO]! No hay cambio en las formas de **nosotros**/**vosotros**
+]
+]
+]
+
+---
+
+# Verbos irregulares
+
+## Los verbos con el cambio **e** → **i**
+
+.center[
+.Large[
+|     Pedir     |           | &nbsp; |                     |            |
+| :------------ | :-------- | :----- | :------------------ | :--------- |
+| yo            | p**i**do  |        | nosotros            | pedimos    |
+| tú            | p**i**des |        | vosotros            | pedís      |
+| él/ella/usted | p**i**de  |        | ellos/ellas/ustedes | p**i**den  |
+]
+]
+
+--
+
+.pull-left[
+### Ejemplos
+
+.Large[
+- p.RUred[e]dir
+- s.RUred[e]guir
+- s.RUred[e]rvir
+]
+]
+
+.pull.right[
+</br></br>
+.Large[
+.center[
+¡.RUred[OJO]! No hay cambio en las formas de **nosotros**/**vosotros**
+]
+]
+]
+
+---
+
+# Verbos irregulares
+
+## Jugar: el cambio **u** → **ue**
+
+.center[
+.Large[
+|     Jugar     |            | &nbsp; |                     |            |
+| :------------ | :--------- | :----- | :------------------ | :--------- |
+| yo            | j**ue**go  |        | nosotros            | jugamos    |
+| tú            | j**ue**gas |        | vosotros            | jugáis     |
+| él/ella/usted | j**ue**ga  |        | ellos/ellas/ustedes | j**ue**gan |
+]
+]
+
+--
+
+.pull-left[
+### Ejemplo
+
+.Large[
+- J.RUred[ue]go al golf todos los días.
+]
+]
+
+.pull.right[
+</br></br>
+.Large[
+.center[
+¡.RUred[OJO]! No hay cambio en las formas de **nosotros**/**vosotros**
+]
+]
+]
+
+---
+
+# Actividad
+
+.pull-left[
+
+### Crowdsourcing un cuento
+
+- Utilizando la lista de verbos que está a la derecha, escribe una frase 
+corta en una hoja de papel. 
+  - Puede ser una frase simple (SVO). 
+  - Intenta usar vocabulario nuevo. 
+
+<p></p>
+
+- Cuando el profesor diga, pasa tu papel a otra persona.
+
+<p></p>
+
+- Lee lo que está escrito y añade una frase más. 
+  - Tienes que usar uno de los verbos de la lista. 
+  - Sólo puedes añadir **una** frase. 
+
+<p></p>
+
+- Repite.
+
+]
+
+--
+
+.pull-right[
+
+### Verbos
+
+- jugar
+- querer
+- seguir
+- servir
+- pedir
+- poder
+- dormir
+- empezar
+- costar
+- preferir
+- recomendar
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+class: title-slide-section-blue
+
+---
 
 
 
@@ -722,61 +1023,6 @@ exclude: true
 .center[
 ![:scale 70%](./assets/img/numeros1.png)
 ]
-
----
-exclude: true
-class: inverse, center, middle
-
-# Saber vs. conocer
-
----
-exclude: true
-
-# Saber vs. conocer
-
-## Saber: se utiliza para información
-
-- Sé la respuesta
-
-- Sé hacer reservaciones en línea.
-
-- ¿Sabes dónde está el banco?
-
---
-exclude: true
-
-## Conocer: se utiliza para las personas y los lugares
-
-- Conozco Nueva Orleans.
-
-- ¿Conoces al agente de viajes?
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 exclude: true
