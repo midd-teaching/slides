@@ -973,23 +973,29 @@ corta en una hoja de papel.
 
 ]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 class: title-slide-section-blue
 
 ---
@@ -998,7 +1004,25 @@ class: title-slide-section-blue
 
 
 
-exclude: true
+
+
+
+
+class: inverse, middle, center
+
+# Más números (repasito)
+
+---
+exclude: false
+
+# Los números de 100 a 10,000,000
+
+.center[
+![:scale 70%](./assets/img/numeros1.png)
+]
+
+---
+exclude: false
 
 # ¿Sabes mucha historia?
 
@@ -1016,24 +1040,27 @@ exclude: true
   - **1492** (mil cuatrocientos noventa y dos)
 
 ---
-exclude: true
 
-# Los números de 100 a 10,000,000 (recordatorio)
 
-.center[
-![:scale 70%](./assets/img/numeros1.png)
-]
 
----
-exclude: true
+
+
+
+
+
+
+
+
+
+exclude: false
 class: inverse, middle, center
 
 <!-- más descripción -->
 
-# Más descripción
+# La familia
 
 ---
-exclude: true
+exclude: false
 
 # La familia
 
@@ -1046,7 +1073,7 @@ exclude: true
 </div>
 
 ---
-exclude: true
+exclude: false
 
 # ¿Cómo es tu familia?
 
@@ -1066,7 +1093,7 @@ Describir tu familia al compañero, el/ella tiene que dibujar el árbol
 -->
 
 ---
-exclude: true
+exclude: false
 
 # Mi árbol genealógico
 
@@ -1081,7 +1108,393 @@ exclude: true
 - Tienes que tener paciencia 
 
 ---
-exclude: true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+class: title-slide-section-grey, center, middle
+
+# El verbo *tener*
+
+---
+
+# El verbo *tener*
+
+.center[
+
+|             |                        | .blue[Singular] |                       | .blue[Plural]  |
+| :---------- | :--------------------- | :-------------- | :-------------------- | :------------- |
+| .RUred[1a]  | .grey[yo]              | tengo           | nosotros/as           | tenemos        |
+| .RUred[2a]  | .grey[tú]              | tienes          | vosotros/as           | tenéis         |
+| .RUred[3a]  | .grey[él, ella, usted] | tiene           | ellos, ellas, ustedes | tienen         |
+
+]
+
+--
+
+- Posesión
+  - Tengo tres gatos
+  - Tienes una casa bonita
+  - Los estudiantes tienen un examen
+
+- Obligación (tener que + inf.)
+  - **Tengo que** estudiar.
+  - Tenemos que hacer mucha tarea para aprobar la clase
+
+- Frases/expersiones especiales
+
+---
+
+# El verbo *tener*
+
+### Expresiones con el verbo *tener*
+
+.pull-left[
+
+- tener hambre
+- tener sed
+- tener frío
+- tener calor
+- tener celos
+- tener miedo
+- tener razón
+
+]
+
+.pull-right[
+
+- tener suerte
+- tener sueño
+- tener prisa
+- tener X años
+- tener ganas de
+
+]
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+class: inverse, center, middle
+
+# Los verbos reflexivos
+
+---
+
+# Maya
+
+<div align="center">
+  <video width="600" height="450" allowfullscreen controls>
+    <source src="./assets/videos/mayaShake.mov" type="video/mp4">
+    <source src="./assets/videos/mayaShake.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+  </video>
+</div>
+
+---
+background-image: url(./assets/img/reflexivo1.png)
+background-size: contain
+
+---
+background-image: url(./assets/img/reflexivo2.png)
+background-size: contain
+
+---
+
+# Los reflexivos
+
+<div style="float:right">
+  <img width="450" src="./assets/img/reflexivo3.png">
+</div>
+
+- el sujeto == el objeto
+
+--
+
+- Hay concordancia entre el sujeto y el pronombre reflexivo  
+Ej. y**o** <blue>me</blue> levant**o**
+
+--
+
+- El pronombre va al final si es un infinitivo. Aún hay concordancia  
+Ej. Y**o** quier**o** <grey>levantar</grey><blue>me</blue>
+
+
+</br>
+
+--
+
+```{r, results='asis', echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+tribble(
+~'Primera persona', ~'&#160;',  ~'Segunda persona', 
+ 'yo **me**',        '',         'nosotros **nos**', 
+ 'tú **te**',        '',         'vosotros **os**', 
+ 'ella **se**',      '',         'ellas **se**'
+) %>% 
+as.data.frame(.) %>%
+pander::pandoc.table(., style = "rmarkdown", 
+                        justify = c('left', 'left', 'left'))
+```
+
+---
+
+# Los verbos reflexivos: 
+
+### el sujeto y el objeto son la misma persona
+
+.center[
+![:scale 70%](./assets/img/reflexivos1.png)
+]
+
+---
+
+# Los pronombres reflexivos reflejan el sujeto de la frase
+
+.center[
+![:scale 60%](./assets/img/reflexivos1.png)
+]
+
+</br>
+
+- Prefiero levantar**me** temprano.
+
+- Me lavo **LOS** dientes todos los días.
+
+---
+
+# Los verbos regulares:
+
+.center[
+![:scale 50%](./assets/img/reflexivos3.png)
+]
+
+---
+
+# Los verbos irregulares
+
+.center[
+![:scale 75%](./assets/img/reflexivos4.png)
+]
+
+---
+
+# JT
+
+<div align="center">
+  <video width="600" height="450" allowfullscreen controls>
+    <source src="./assets/videos/reflexivo.mp4" type="video/mp4">
+    <source src="./assets/videos/reflexivo.ogg" type="video/ogg">
+  </video>
+</div>
+
+---
+class: title-slide-section-grey, center, middle
+
+# Para expresar reciprocidad
+
+---
+background-image: url(./assets/img/spiderman.jpg)
+background-size: contain
+class: bottom
+
+--
+
+# .white[Spiderman (1) ve al Spiderman (2)]
+
+--
+
+# .white[Spiderman (2) ve al Spiderman (1)]
+
+--
+
+# .white[Ellos se ven]
+
+---
+background-image: url(./assets/img/doghug.png)
+background-size: contain
+background-position: 200% 50%
+class: middle
+
+--
+
+## Kino abraza a Maya
+
+--
+
+## Maya abraza a Kino
+
+--
+
+## Ellos se abrazan
+
+---
+background-image: url(./assets/img/naruto.png)
+background-size: contain
+background-color: black
+
+---
+background-image: url(./assets/img/globos.jpg)
+background-size: contain
+background-color: black
+
+---
+
+# Para expresar reciprocidad
+
+### Verbos recíprocos
+
+- Verbos que se usan para expresar acciones mútuas
+
+- 2 o más personas participan en una acción que hacen el uno al otro
+
+- Incluye un pronombre recíproco, siempre en plural
+
+--
+
+### Ejemplos
+
+- Marta y yo **nos** .RUred[amamos]
+
+- Ustedes **se** .RUred[conocen]
+
+- Rocío y Joseph **se** .RUred[casan]
+
+- Vosotras **os** .RUred[ayudáis] con la tarea 
+
+---
+
+# Para expresar reciprocidad
+
+### Pronombres recíprocos
+
+| Persona   | Pronombre | Ejemplo                                             |
+| :-------- | :-------- | :-------------------------------------------------- |
+| Primera   | nos       | **Nos** .RUred[vemos] *el uno al otro* en el pasillo. |
+|           |           | .white[.]                                             |
+| Segunda   | os        | **Os** .RUred[escribís] *mutuamente* durante el verano. |
+| \*Segunda | se        | Ustedes **se** .RUred[ayudan] *recíprocamente*.         |
+|           |           | .white[.]                                             |
+| Tercera   | se        | Los niños **se** .RUred[pelean] *entre sí*.             |
+
+--
+
+</br>
+
+.pull-left[
+.content-box-blue[
+¡.RUred[OJO]! Si se trata de una contrucción de reciprocidad siempre se puede 
+incluir una expresión tipo *el uno al otro*, *mutuamente*, *recíprocamente*, 
+*entre sí*, *entre ellos*, etc. 
+]
+]
+
+--
+
+.pull-right[
+.content-box-red[
+\*En la mayoría de las variedades del español **se** representa 
+semánticamente la segunda persona plural (ustedes), aunque su forma es 
+gramaticalmente la tercera persona plural.
+]
+]
+
+---
+
+# Para expresar reciprocidad
+
+### Verbos comunes
+
+- abrazarse
+- conocerse
+- mirarse
+- ayudarse
+- despedirse
+- pelearse
+- besarse
+- divorciarse
+- reunirse
+- casarse
+- estrellarse
+
+--
+
+background-image: url(./assets/img/crash.gif)
+background-size: 450px
+background-position: 85% 50%
+
+--
+
+background-image: url(./assets/img/hug.gif)
+background-size: 450px
+background-position: 85% 50%
+
+--
+
+background-image: url(./assets/img/despedirse.gif)
+background-size: 450px
+background-position: 85% 50%
+
+--
+
+background-image: url(./assets/img/kisses.gif)
+background-size: 450px
+background-position: 85% 50%
+
+--
+
+background-image: url(./assets/img/pulgas.gif)
+background-size: 450px
+background-position: 85% 50%
+
+--
+
+background-image: url(./assets/img/scratch.gif)
+background-size: 450px
+background-position: 85% 50%
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+class: inverse, center, middle
+
+# Estrategias para la comprensión auditiva
+
+---
+exclude: false
 class: title-slide-section-blue, center, bottom
 background-image: url("./assets/img/moana.gif")
 background-size: contain
@@ -1089,6 +1502,7 @@ background-position: 50%, 50%
 
 # ¿Cuáles son tus estrategias para la comprensión auditiva?
 
+---
 
 
 
