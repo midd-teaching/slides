@@ -1328,6 +1328,32 @@ pander::pandoc.table(., style = "rmarkdown",
 </div>
 
 ---
+background-image: url(https://st4.depositphotos.com/1642684/23595/v/600/depositphotos_235958346-stock-illustration-vector-illustration-kids-daily-routine.jpg)
+background-size: 400px
+background-position: 97% 50%
+
+# A practicar
+
+### Mi rutina
+
+.pull-left[
+.Large[
+- ¿Cómo es tu rutina diaria aquí en Middlebury? ¿Qué sueles hacer?
+
+- ¿Cómo es tu rutina cuando estás en casa? ¿Es diferente? ¿Cómo?
+]
+]
+
+.footnote[(levantarse, despertarse, ducharse, bañarse, lavarse, afeitarse, ponerse la ropa, vestirse, acostarse, prepararse, dormirse, etc.)]
+
+
+
+
+
+
+
+
+---
 class: title-slide-section-grey, center, middle
 
 # Para expresar reciprocidad
