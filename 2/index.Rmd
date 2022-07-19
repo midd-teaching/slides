@@ -1545,30 +1545,3 @@ background-position: 50%, 50%
 
 # ¿Cuáles son tus estrategias para la comprensión auditiva?
 
----
-
-
-
-
-
-
-
-
-
-
-
----
-exclude: true
-
-# Mi plato preferido
-
-### Primeros pasos
-
---
-
-exclude: true
-
-- Escoge tu plato favorito (o un plato que *no* te guste)
-- ¿Por qué te gusta? (o no)
-- ¿Qué vocabulario necesitas para describirlo?
-
