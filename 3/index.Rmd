@@ -593,9 +593,11 @@ exclude: false
 
 # Leed el siguiente párrafo...
 
+.Large[
 En la escuela de español sólo se habla español. No se puede hablar en inglés. En general, se participa en muchas actividades, como el club de cocina, la clínica de pronunciación y el fútbol. 
 Además, se llevan a cabo otras actividades como el teatro y el taller de salsa. Las clases son 
 muy difíciles. Se tiene que trabajar mucho y las tareas se entregan todos los días. En fin, en Middlebury se aprenden muchas lenguas y se divierte mucho.
+]
 
 ---
 class: inverse, center, middle
@@ -640,25 +642,33 @@ exclude: false
 
 # El "se" impersonal
 
+.Large[
 - El "se" impersonal no pone énfasis en ninguna persona como sujeto.
+]
 
 --
 exclude: false
 
+.Large[
 - Podemos pensar que la(s) persona(s) que realiza(n) la acción son "ellos", "la gente", "las personas", "tú" o "uno".
+]
 
 --
 exclude: false
 
+.Large[
 - **se** + <blue>verbo singular</blue> + un infinitivo/un adverbio
+]
 
 --
 exclude: false
 
+.Large[
 - Ej. 
 	- En Ecuador, se almuerza a la una.
 	- ¿Se puede ir a pie?
 	- ¿Dónde se puede comprar aspirina?
+]
 
 ---
 exclude: false
@@ -667,24 +677,29 @@ exclude: false
 
 ### Pasivo
 
+.Large[
 - **se** + <blue>verbo conjugado</blue> + sustantivo  
+]
 
 </br>
 
 ### Impersonal
 
+.Large[
 - **se** + <blue>verbo singular</blue> + un infinitivo/un adverbio
+]
 
 ---
 exclude: false
 
 # No sé llegar
 
+.Large[
 Usted está perdid@ y no sabe llegar a los siguientes lugares. 
 Pídale indicaciones a su compañer@
+]
 
-Modelo:  
-El comedor de Proctor  
+Modelo: El comedor de Proctor  
 .red[Persona 1]: Perdone usted, estoy buscando Proctor. ¿Me puede ayudar?  
 .blue[Persona 2]: Por supuesto. Se sale de este edificio, se gira a la derecha y se sigue la acera hasta el próximo edificio. 
 
@@ -726,21 +741,21 @@ exclude: false
 
 # Releed el siguiente párrafo...
 
-.pull-left[
-
+.Large[
 En la escuela de español sólo **se** habla español. No **se** puede hablar en inglés. En general, **se** participa en muchas actividades, como el club de cocina, la clínica de pronunciación y el fútbol. Además, **se** llevan a cabo otras actividades como el teatro y el taller de salsa. Las clases son muy difíciles. **Se** tiene que trabajar mucho y las tareas **se** entregan todos los días. En fin, en Middlebury **se** aprenden muchas lenguas y **se** divierte mucho.
 ]
  
 --
 exclude: false
 
-.pull-right[
+.pull-left[
 
 ### Pasivo
 
 - **se** + <blue>verbo conjugado</blue> + sustantivo  
+]
 
-</br>
+.pull-right[
 
 ### Impersonal
 
