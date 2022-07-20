@@ -440,9 +440,68 @@ Poned orden dándole consejos (usad mandatos informales).
 ]
 ]
 
+
+
+
+
+
+---
+class: title-slide-section-blue
+
+---
+exclude: false
+
+# Las partes del cuerpo:
+
+<div align="center">
+  <img width="650" src="./assets/img/cuerpo1.png">
+</div>
+
+---
+exclude: true
+background-image: url(./assets/img/doler2.jpg)
+background-position: 95% 50%
+
+# El verbo doler sigue el modelo de gustar
+
+- Me duel**e** <blue>la espalda</blue>.
+- Me duel**en** <blue>los pies</blue>.
+- ¿Cuál es la situación más dolerosa que has experimentado en tu vida?
+
+
+|   Singular  |    plural    |
+| :---------- | :----------- |
+| me duele(n) | nos duele(n) |
+| te duele(n) | os duele(n)  |
+| le duele(n) | les duele(n) |
+
+---
+exclude: false
+background-image: url(./assets/img/doler3.jpg)
+background-size: 500px
+background-position: 95% 50%
+
+# Romperse es un verbo reflexivo
+
+- Paco <blue>se rompió</blue> el brazo. 
+
+- <blue>Me rompí</blue> la pierna.
+
+- ¿Alguna vez **te has roto** un hueso? ¿Qué pasó?
+
 ---
 
 # Simón dice...
+
+
+
+
+
+
+
+
+
+
 
 ---
 
@@ -479,77 +538,11 @@ Posibles temas...
 
 ]
 
---
-exclude: false
-
-- Discutid en grupos
-- Escribid 3 frases, entregar por canvas
-
 ---
 exclude: false
 
 <iframe src="https://play.kahoot.it/v2/?quizId=1e2ea1a4-3579-4a39-95e8-157f882463bd" width="1000" height="600" style="border:none;"></iframe>
 
-
-
-
-
-
-
-
-
-
-
-
-
----
-exclude: true
-
-# Las partes del cuerpo:
-
-<div align="center">
-  <img width="650" src="./assets/img/cuerpo1.png">
-</div>
-
-<!-- ejercicio partes del cuerpo 
-Si tengo X, qué me duele?
--->
-
----
-exclude: true
-background-image: url(./assets/img/doler2.jpg)
-background-position: 95% 50%
-
-# El verbo doler sigue el modelo de gustar
-
-- Me duel**e** <blue>la espalda</blue>.
-- Me duel**en** <blue>los pies</blue>.
-- ¿Cuál es la situación más dolerosa que has experimentado en tu vida?
-
-<!-- <div align="center">
-  <img width="700" src="./assets/img/doler1.png">
-</div> -->
-
-|   Singular  |    plural    |
-| :---------- | :----------- |
-| me duele(n) | nos duele(n) |
-| te duele(n) | os duele(n)  |
-| le duele(n) | les duele(n) |
-
----
-exclude: true
-background-image: url(./assets/img/doler3.jpg)
-background-size: 500px
-background-position: 95% 50%
-
-# Romperse es un verbo reflexivo
-
-- Paco <blue>se rompió</blue> el brazo. 
-
-- <blue>Me rompí</blue> la pierna.
-
-- ¿Alguna vez **te has roto** un hueso? ¿Qué pasó?
-
 ---
 
 
@@ -562,32 +555,7 @@ background-position: 95% 50%
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-exclude: true
+exclude: false
 
 # Leed el siguiente párrafo...
 
@@ -596,52 +564,62 @@ Además, se llevan a cabo otras actividades como el teatro y el taller de salsa.
 muy difíciles. Se tiene que trabajar mucho y las tareas se entregan todos los días. En fin, en Middlebury se aprenden muchas lenguas y se divierte mucho.
 
 ---
-exclude: true
+class: inverse, center, middle
 
 # El "se" pasivo
 
+---
+exclude: false
+
+# El "se" pasivo
+
+.Large[
 - El "se" pasivo pone énfasis en la acción de la frase.
+]
 
 --
-exclude: true
 
+.Large[
 - **se** + <blue>verbo conjugado</blue> + sustantivo
+]
 
 --
-exclude: true
 
 <p></p>
 
+.Large[
 - Un verbo **singular** con un sustantivo **singular**
 	- Se **produce** mucho **software** en Ecuador.
+]
 
 --
-exclude: true
 
 <p></p>
 
+.Large[
 - Un verbo <blue>plural</blue> con un sustantivo <blue>plural</blue>
 	- También se <blue>cultivan</blue> muchas <blue>flores</blue>.
+]
 
 ---
-exclude: true
+exclude: false
 
 # El "se" impersonal
 
 - El "se" impersonal no pone énfasis en ninguna persona como sujeto.
 
 --
-exclude: true
+exclude: false
 
 - Podemos pensar que la(s) persona(s) que realiza(n) la acción son "ellos", "la gente", "las personas", "tú" o "uno".
 
 --
-exclude: true
+exclude: false
 
 - **se** + <blue>verbo singular</blue> + un infinitivo/un adverbio
 
 --
-exclude: true
+exclude: false
 
 - Ej. 
 	- En Ecuador, se almuerza a la una.
@@ -649,7 +627,7 @@ exclude: true
 	- ¿Dónde se puede comprar aspirina?
 
 ---
-exclude: true
+exclude: false
 
 # "Se" impersonal vs. "se" pasivo
 
@@ -664,7 +642,7 @@ exclude: true
 - **se** + <blue>verbo singular</blue> + un infinitivo/un adverbio
 
 ---
-exclude: true
+exclude: false
 
 # No sé llegar
 
@@ -677,7 +655,7 @@ El comedor de Proctor
 .blue[Persona 2]: Por supuesto. Se sale de este edificio, se gira a la derecha y se sigue la acera hasta el próximo edificio. 
 
 --
-exclude: true
+exclude: false
 
 .pull-left[
 
@@ -710,7 +688,7 @@ exclude: true
 ]
 
 ---
-exclude: true
+exclude: false
 
 # Releed el siguiente párrafo...
 
@@ -720,7 +698,7 @@ En la escuela de español sólo **se** habla español. No **se** puede hablar en
 ]
  
 --
-exclude: true
+exclude: false
 
 .pull-right[
 
@@ -736,7 +714,7 @@ exclude: true
 ]
 
 ---
-exclude: true
+exclude: false
 background-image: url(./assets/img/golden.jpg)
 background-size: 250px
 background-position: 95% 50%
@@ -747,7 +725,7 @@ background-position: 95% 50%
 - Utiliza el se pasivo y el se impersonal  
 
 --
-exclude: true
+exclude: false
 
 **Verbos útiles**  
 
@@ -765,13 +743,13 @@ exclude: true
 - probar
 
 --
-exclude: true
+exclude: false
 
 <p></p>
 - Reescribe tu lista usando mandatos formales
 
 ---
-exclude: true
+exclude: false
 
 # Resumen
 
