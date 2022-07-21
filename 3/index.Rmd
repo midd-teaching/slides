@@ -839,9 +839,16 @@ background-image: url(./assets/img/mandatos_se_pasiva-impersonal_4.png)
 background-size: contain
 
 ---
+class: middle
 
+.Large[
+|          | Informal         | Formal      |
+| :------- | :--------------- | :---------- |
+| Singular | .RUred[tú]       | **usted**   |
+| Plural   | .RUred[vosotros] | **ustedes** |
+]
 
-
+---
 
 
 
