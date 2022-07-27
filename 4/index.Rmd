@@ -561,21 +561,27 @@ class: inverse, middle, center
 
 ### Expresan ¿a quién? o ¿para quién?
 
+.Large[
 Siempre **les** sirvo *vino* **a mis invitados**.
+]
 
 --
 
 ### ¿Qué sirvo? 
 
+.Large[
 - *El vino*  
 (el complemento directo)
+]
 
 --
 
 ### ¿A quién sirvo? 
 
+.large[
 - **A mis invitados**  
 (el complemento indirecto)
+]
 
 ---
 background-image: url("https://www.wpclipart.com/signs_symbol/arrows/BW_arrows/arrow_BW_thin_left.png")
@@ -584,37 +590,47 @@ background-size: 60px
 
 # Los complementos indirectos
 
+.large[
 |  Singular         |    |        |    |  Plural               |    |         |
 | :---------------- | :- | :----- | :- | :-------------------- | :- | :------ |
 | yo                |    | **me** |    | nosotros              |    | **nos** |
 | tú                |    | **te** |    | vosotros              |    | **os**  |
 | usted, él, ella   |    | <blue>le</blue> |    | ustedes, ellos, ellas |    | <blue>les</blue> |
 | | &nbsp; | | &nbsp; &nbsp; &nbsp; | | &nbsp; | |
+]
 
 </br>
 
+.large[
 - ¿**Me** puede traer una cuchara?
 
 - Siempre **les** preparo las galletas.
+]
 
 ---
 
 # Los complementos indirectos
 
-### La posición de los complementos indirectos pronominales depende de la forma verbal
+.Large[
+La posición de los complementos indirectos pronominales depende de la forma verbal
+]
 
 --
 
-#### Con un verbo conjugado
+### Con un verbo conjugado
 
+.Large[
 - ¿Cuánto **le** debo?
+]
 
 --
 
-#### Con un verbo conjugado y un infinitivo
+### Con un verbo conjugado y un infinitivo
 
+.Large[
 - ¿**Me** puede traer un tenedor?
 - ¿Puede traer**me** un tenedor?
+]
 
 ---
 
@@ -622,9 +638,11 @@ background-size: 60px
 
 ### Muchas veces el complemento indirecto <blue>y</blue> el pronombre de complemento indirecto aparecen en la misma oración para evitar la confusión
 
+.Large[
 - Siempre **le** sirvo platos vegetarianos **a María**.
 
 - **Les** voy a servir una sopa **a mis invitados**.
+]
 
 ---
 class: inverse-title-slide-grey, middle
@@ -639,26 +657,28 @@ class: inverse-title-slide-grey, middle
 
 ### <blue>CD</blue>
 
+.Large[
 |        |    | singular |    |  plural  |
 | :----- | :- | :------- | :- | :------- |
 | 1a     |    | me       |    | nos      |
 | 2a     |    | te       |    | os       |
 | 3a     |    | lo, la   |    | los, las |
 | | &nbsp; &nbsp; | | &nbsp; &nbsp; |
-
+]
 ]
 
 .pull-right[
 
 ### **CI**
 
+.Large[
 |        |   | singular |    | plural |
 | :----- |:- | :------- | :- | :----- |
 | 1a     |   | me       |    | nos    |
 | 2a     |   | te       |    | os     |
 | 3a     |   | le       |    | les    |
 | | &nbsp; &nbsp; | | &nbsp; &nbsp; |
-
+]
 ]
 
 ---
@@ -687,17 +707,24 @@ class: inverse-title-slide-grey, middle
 
 ### Mami, ¿**me** haces <blue>unas galletas</blue>?
 
+.Large[
 - ¿Qué haces?  
-  - unas galletas (el complemento directo)
+unas galletas (el complemento directo)
+]
+
+.Large[
 - ¿A quién o para quién?  
-  - a mí (me) (el complemento indirecto)
+a mí (me) (el complemento indirecto)
+]
 
 --
 
 ### Sí, **te** <blue>las</blue> hago esta tarde.
 
+.large[
 - Te = para ti
 - las = las galletas
+]
 
 ---
 
@@ -906,24 +933,33 @@ class: inverse, middle, center
 
 # El pretérito expresa el pasado con una referencia a un tiempo particular
 
+.Large[
 - Salí con unos compañeros de clase **anoche**.
+]
 
 --
 
+.Large[
 - **Ayer** fuimos a Dos Hermanos.
+]
 
 --
 
+.Large[
 - **La semana pasada** corrimos dos millas.
+]
 
 --
 
+.Large[
 - Me bañé en el mar **el año pasado**. 
+]
 
 ---
 
 # El pretérito
 
+.Large[
 |                  |    |     tomar     |    |     volver     |    |     salir     |
 | :--------------- | :- | :------------ | :- | :------------- | :- | :------------ |
 | yo               |    | tom**é**      |    | volv**í**      |    | sal**í**      |
@@ -932,66 +968,41 @@ class: inverse, middle, center
 | nosotros(as)     |    | tom**amos**   |    | volv**imos**   |    | sal**imos**   |
 | vosotros(as)     |    | tom**asteis** |    | volv**isteis** |    | sal**isteis** |
 | Uds./ellos/ellas |    | tom**aron**   |    | volv**ieron**  |    | sal**ieron**  |
-| | &#160; &#160; | | &#160; &#160; | | &#160; &#160; | |
+]
 
 --
 
+.Large[
 **¡OJO!**
+]
 
+.large[
 -  Los verbos reflexivos requieren el pronombre reflexivo.
 - **Me desperté** a las ocho ayer.
+]
 
 --
 
-<p></p>
-
--  El verbo gustar solo usa dos formas en el pretérito.
+.large[
+-  El verbo gustar tiene dos formas más comunes en el pretérito.
 - **Me gustó** el concierto. No **me gustaron** esas dos películas.
+]
 
 ---
 
 # ¿Qué hiciste la semana pasada?
 
+.Large[
 - Piensa en algunas cosas que hiciste la semana pasada
-
 - Forma 3 oraciones usando el préterito y cuéntaselas a tu grupo
-
 - Responde a las oraciones de tus compañeros/as con más preguntas en el pasado
-
-</br>
-</br>
-
-<!--
-
-### Encuentra a alguien que...
-
-.pull-left[
-
-1. nadó en el lago.
-
-2. cenó en el pueblo. 
-
-3. rompió la palabra de honor.
-
-4. miró juego de tronos.
-
-5. bebió demasiado.
-
-6. estudió todo el fin de semana. 
-
-7. salió de Middlebury.
-
-8. tomó comida de Proctor.
-
-
 ]
 
--->
+</br>
 
 --
 
-.small[
-
+.Large[
 |                  |    |     tomar     |    |     volver     |    |     salir     |
 | :--------------- | :- | :------------ | :- | :------------- | :- | :------------ |
 | yo               |    | tom**é**      |    | volv**í**      |    | sal**í**      |
@@ -1000,8 +1011,36 @@ class: inverse, middle, center
 | nosotros(as)     |    | tom**amos**   |    | volv**imos**   |    | sal**imos**   |
 | vosotros(as)     |    | tom**asteis** |    | volv**isteis** |    | sal**isteis** |
 | Uds./ellos/ellas |    | tom**aron**   |    | volv**ieron**  |    | sal**ieron**  |
-| | &#160; &#160; | | &#160; &#160; | | &#160; &#160; | |
+]
 
+---
+
+
+
+
+
+
+
+
+
+
+class: title-slide-section-blue
+
+---
+
+# ¿Qué hiciste durante el fin de semana?
+
+### Encuentra a alguien que...
+
+.Large[
+1. nadó en el lago.
+2. cenó en el pueblo. 
+3. rompió la palabra de honor.
+4. miró casa de papel.
+5. bebió demasiado.
+6. estudió todo el fin de semana. 
+7. salió de Middlebury.
+8. tomó comida de Proctor.
 ]
 
 ---
@@ -1010,12 +1049,16 @@ class: inverse, middle, center
 
 ### Expresa un momento particular en el pasado.
 
+.Large[
 **Palabras importantes: ayer, anoche, la semana pasada**  
+]
 
 </br>
 
+.Large[
 - Anoche miramos la televisión.
 - Mi abuela me visitó hace dos semanas.
+]
 
 ---
 
@@ -1023,11 +1066,15 @@ class: inverse, middle, center
 
 ### Expresa un evento que ocurrió varias veces
 
+.Large[
 **Palabras importantes: una vez, dos veces, varias veces**
+]
 
 </br>
 
+.Large[
 - Fuimos a la piscina dos veces la semana pasada.
+]
 
 ---
 
