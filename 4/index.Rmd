@@ -1082,11 +1082,15 @@ class: title-slide-section-blue
 
 ### Expresa cuánto tiempo duró un evento.
 
+.Large[
 **Palabras importantes: por veinte minutos, por dos días**
+]
 
 </br>
 
+.Large[
 - Arturo habló por teléfono por quince minutos.
+]
 
 ---
 
@@ -1096,12 +1100,15 @@ class: title-slide-section-blue
 
 </br>
 
+.Large[
 - Ayer fue un día fantástico en la uni. Primero...
+]
 
 ---
 
 # Mi experiencia en Midd
 
+.large[
 Querida mamá,  
 
 Ya \_\_\_\_\_\_\_\_\_\_ (llevar, presente) 5 semanas en el programa de 
@@ -1125,11 +1132,13 @@ Bueno, te dejo, que tengo que trabajar en mi proyecto de cultura.
 
 Un beso,  
 Triste estudiante de nivel 1.5 😭
+]
 
 ---
 
 # Mi experiencia en Midd
 
+.large[
 Querida mamá,  
 
 Ya **llevo** 5 semanas en el programa de Middlebury.
@@ -1148,6 +1157,7 @@ Bueno, te dejo, que tengo que trabajar más en mi proyecto de cultura.
 
 Un beso,  
 Triste estudiante de nivel 1.5 😭
+]
 
 
 
@@ -1162,8 +1172,7 @@ Triste estudiante de nivel 1.5 😭
 
 
 
-
-
+---
 
 class: title-slide-section-grey, middle
 
@@ -1172,6 +1181,8 @@ class: title-slide-section-grey, middle
 ---
 
 # Algunos verbos irregulares en el pretérito:
+
+.Large[
 
 |                  |    |    ir    |    |   ser    |    |   dar   |    |   ver   |
 | :--------------- | :- | :------- | :- | :------- | :- | :------ | :- | :------ |
@@ -1183,12 +1194,15 @@ class: title-slide-section-grey, middle
 | Uds./ellos/ellas |    | fueron   |    | fueron   |    | dieron  |    | vieron  |
 | | &#160; &#160; | | &#160; &#160; | | &#160; &#160; | | &#160; &#160; | |
 
+]
+
 ---
 
 # Algunos verbos irregulares en el pretérito: 
 
 ### Los verbos con .RUred[u] en la raíz
 
+.Large[
 
 |      estar      |    |     poder     |    |     poner     |    |     saber     |    |     tener     |
 | :-------------- | :- | :------------ | :- | :------------ | :- | :------------ | :- | :------------ |
@@ -1200,11 +1214,15 @@ class: title-slide-section-grey, middle
 | estuv**ieron**  |    | pud**ieron**  |    | pus**ieron**  |    | sup**ieron**  |    | tuv**ieron**  |
 | | &#160; &#160; | | &#160; &#160; | | &#160; &#160; | | &#160; &#160; | |
 
+]
+
 ---
 
 # Algunos verbos irregulares en el pretérito: 
 
 ### Los verbos con .RUred[i] en la raíz
+
+.Large[
 
 |     hacer     |    |     querer     |    |     venir     |
 | :------------ | :- | :------------- | :- | :------------ |
@@ -1215,11 +1233,16 @@ class: title-slide-section-grey, middle
 | hic**isteis** |    | quis**isteis** |    | vin**isteis** |
 | hic**ieron**  |    | quis**ieron**  |    | vin**ieron**  |
 | | &#160; &#160; | | &#160; &#160; | |
+
+]
+
 ---
 
 # Algunos verbos irregulares en el pretérito: 
 
 ### Los verbos con .RUred[j] en la raíz
+
+.Large[
 
 |     conducir     |    |     decir     |    |     traer      |
 | :--------------- | :- | :------------ | :- | :------------- |
@@ -1230,6 +1253,9 @@ class: title-slide-section-grey, middle
 | condu**jisteis** |    | di**jisteis** |    | tra**jisteis** |
 | condu**jeron**   |    | di**jeron**   |    | tra**jeron**   |
 | | &#160; &#160; | | &#160; &#160; | |
+
+]
+
 ---
 
 # ¿Qué pasó?
@@ -1246,7 +1272,7 @@ class: title-slide-section-grey, middle
 # El pretérito (irregulares)
 
 .pull-left[
-
+.Large[
 - tener
 - estar
 - ir
@@ -1255,11 +1281,11 @@ class: title-slide-section-grey, middle
 - poder
 - traer
 - hacer
-
+]
 ]
 
 .pull-right[
-
+.Large[
 - haber
 - saber
 - querer
@@ -1267,7 +1293,7 @@ class: title-slide-section-grey, middle
 - venir
 - ver
 - dar
-
+]
 ]
 
 ---
@@ -1284,18 +1310,19 @@ class: title-slide-section-grey, middle
   <img width="450" src="./assets/img/cucaracha.jpg">
 </div>
 
+.Large[
 **tener** es tuve,  
 **estar** es estuve  
 **ir** es fui, y tambien **ser**  
 **poner** es puse, **poder** es pude  
 traje es para **traer**  
 
-
 **hacer** hice, **haber** hube  
 **saber** supe, **querer** quise  
 **decir** dije, **venir** vine  
 **ver** vi, **dar** di  
 sin acentos
+]
 
 <audio controls>
   <source src="./assets/videos/pretIrreg.ogg" type="audio/ogg">
@@ -1305,7 +1332,7 @@ Your browser does not support the audio element.
 
 .footnote[
 .Large[
-[¡Remix!](https://soundcloud.com/michaelgo/preteritos-remix-07-20-2021/s-XYInUcwrNWz)
+[(Remix)](https://soundcloud.com/michaelgo/preteritos-remix-07-20-2021/s-XYInUcwrNWz)
 ]
 ]
 
@@ -1315,22 +1342,28 @@ Your browser does not support the audio element.
 
 ### -car (buscar, tocar, sacar) 
 
+.Large[
 - c > qu
 - **toqué**, tocaste, tocó, tocamos, tocasteis, tocaron
+]
 
 --
 
 ### -gar (llegar, jugar, pagar) 
 
+.Large[
 - g > gu
 - **llegué**, llegaste, llegó, llegamos, llegasteis, llegaron
+]
 
 --
 
 ### -zar (empezar, almorzar) 
 
+.Large[
 - z > c
 - **empecé**, empezaste, empezó, empezamos, empezasteis, empezaron
+]
 
 ---
 
@@ -1338,23 +1371,31 @@ Your browser does not support the audio element.
 
 ### Leer
 
+.Large[
 - leí, leíste, le**y**ó, leímos, leísteis, le**y**eron
+]
 
 --
 
 ### Creer
 
+.Large[
 - creí, creíste, cre**y**ó, creímos, creísteis, cre**y**eron
+]
 
 --
 
 ### Caerse
 
+.Large[
 - me caí, te caíste, se ca**y**ó, nos caímos, os caísteis, se ca**y**eron
+]
 
 ---
 
 # Verbos con cambios en la raíz en el pretérito: 
+
+.Large[
 
 |                  |     |       e > i        |     |     o > u     |
 | :--------------- | :-- | :----------------- | :-- | :------------ |
@@ -1367,10 +1408,14 @@ Your browser does not support the audio element.
 | Uds./ellos/ellas |     | se div**i**rtieron |     | d**u**rmieron |
 | | &#160; &#160; &#160; | | &#160; &#160; &#160; | |
 
+]
+
 </br>
 
+.Large[
 - ¡**OJO**!: Estos cambios sólo ocurren en la tercera persona (o segunda persona formal)  
-(Ud., él, ella y Uds., ellos, ellas)
+(Ud., él, ella y Uds., ellos, ellas, elles)
+]
 
 ---
 
@@ -1387,9 +1432,12 @@ background-size: 500px
 
 # Batalla naval
 
+.Large[
 - Poned vuestros barcos en el papel
+
 - Conjugad los verbos en el pretérito para hundir 
 los de tu compañer@
+]
 
 ---
 
