@@ -1338,6 +1338,19 @@ Your browser does not support the audio element.
 
 ---
 
+
+
+
+
+
+
+
+
+
+class: title-slide-section-blue
+
+---
+
 # Cambios ortográficos en la forma yo
 
 ### -car (buscar, tocar, sacar) 
@@ -1443,29 +1456,36 @@ los de tu compañer@
 
 # Un repaso: el verbo gustar
 
+.Large[
 - El verbo gustar usa dos formas: **gusta y gustan**
 - Un complemento indirecto expresa **a quién** le gusta.  
 (**me, te, le, nos, os, les**)
+]
 
 </br>
 
+.Large[
 - Me gusta la blusa.
 - A Sara le gustan las camisas. 
+]
 
 ---
 
 # Otros verbos como gustar: interesar y encantar
 
+.Large[
+
 - A Sara le gusta la clase de inglés. 
-
 - Me encanta la clase de biología. 
-
 - Nos interesan las ciencias. 
+
+]
 
 </br>
 
 --
 
+.Large[
 |     |    |  **Singular** |    | <blue>Plural</blue> |
 | :-- | :- | :------------ | :- | :------------- | 
 | 1a  |    | <black>me</black> encanta(n) |    | <black>nos</black> encanta(n) |
@@ -1479,6 +1499,7 @@ los de tu compañer@
 | 2a  |    | <black>te</black> interesa(n) |    | <black>os</black> interesa(n)      |
 | 3a  |    | <black>le</black> interesa(n) |    | <black>les</black> interesa(n)     |
 | | &nbsp; &nbsp; &nbsp; | | &nbsp; &nbsp; &nbsp; | |
+]
 
 ---
 
@@ -1486,7 +1507,9 @@ los de tu compañer@
 
 ### Importar > importa / importan
 
+.Large[
 - A Marisa no le importa el precio.
+]
 
 <p></p>
 
@@ -1494,7 +1517,9 @@ los de tu compañer@
 
 ### Faltar > falta / faltan
 
+.Large[
 - Les falta un dólar.
+]
 
 <p></p>
 
@@ -1502,7 +1527,9 @@ los de tu compañer@
 
 ### Quedar > queda / quedan
 
+.Large[
 - No me quedan más suéteres azules
+]
 
 ---
 
@@ -1510,15 +1537,19 @@ los de tu compañer@
 
 ### ¡**OJO**! Va acompañado de un adjetivo.
 
+.Large[
 - **Nos** *parecen* ***caros*** *esos pantalones*. 
 - Pantalones > masculino, plural
+]
 
 <p></p>
 
 --
 
+.Large[
 - Me pareció divertid**a** la película.
 - la película > femenina, singular
+]
 
 <p></p>
 
@@ -1526,10 +1557,12 @@ los de tu compañer@
 
 ### ¿Qué te parece(n)...
 
+.Large[
 - el club de cocina?
 - las fiestas en el grill?
 - la comida de proctor?
 - los partidos de fútbol?
+]
 
 ---
 
@@ -1537,15 +1570,19 @@ los de tu compañer@
 
 ### Se puede utilizar para hablar de la ropa
 
+.Large[
 - Se usa con bien / mal.
 - Me quedan **bien** esos pantalones.
+]
 
 <p></p>
 
 --
 
+.Large[
 - Se usa con los adjetivos para describir más.
 - Le quedan **un poco apretados** esos zapatos.
+]
 
 ---
 
@@ -1558,7 +1595,7 @@ los de tu compañer@
 ]
 
 .pull-right[
-
+.Large[
 - gustar
 - encantar
 - interesar
@@ -1566,7 +1603,7 @@ los de tu compañer@
 - faltar
 - parecer
 - quedar
-
+]
 ]
 
 --
@@ -1579,25 +1616,35 @@ los de tu compañer@
 
 ### Construye preguntas y respuestas con estos componentes
 
+.Large[
 Ej. parecer/el libro de Cervantes/a tu amiga  
+]
 --
 
+.Large[
 ¿Qué **le** .RUred[parece] .grey[el libro de Cervantes] **a tu amiga**?  
+]
 --
 
+.Large[
 (**A mi amiga**) **le** .RUred[parece] muy .grey[aburrido]. 
+]
 
 --
 
+.Large[
 1. parecer/las clases de filosofía/a ti
 2. parecer/los amigos de mi novi@/a ti
 3. parecer/la cerveza switchback/a nosotros
 4. parecer/estos ejercicios/a ustedes
 5. parecer/la lluvia/a vosotros
+]
 
 --
 
+.Large[
 ¡Ahora pon las frases en el pasado!
+]
 
 ---
 
@@ -1605,9 +1652,11 @@ Ej. parecer/el libro de Cervantes/a tu amiga
 
 ### Construye preguntas y respuestas con estos componentes
 
+.large[
 Ej. parecer/el libro de Cervantes/a tu amiga  
 ¿Qué **le** .RUred[parece] .grey[el libro de Cervantes] **a tu amiga**?  
 (**A mi amiga**) **le** .RUred[parece] muy .grey[aburrido]. 
+]
 
 1. parecer/las clases de filosofía/a ti  
 .grey[¿Qué te parecen las clases de filosofía?<br> Me parecen fantásticas.]
@@ -1626,26 +1675,36 @@ Ej. parecer/el libro de Cervantes/a tu amiga
 
 ### Construye preguntas y respuestas con estos componentes
 
-
+.Large[
 Ej. parecer/el senderismo/a los estudiantes (encantar)  
+]
+
 --
 
+.Large[
 ¿Qué **les** .RUred[parece] .grey[el senderismo] **a los estudiantes**?  
+]
 --
 
+.Large[
 (**A los estudiantes**) **les** .RUred[encanta] (.grey[el senderismo]). 
+]
 
 --
 
+.Large[
 1. parecer/la tarea/a los niños (encantar)
 2. parecer/Jeff Bezos/a ti (interesar/no interesar)
 3. parecer/el cambio climático/a la juventud (important/no importar)
 4. parecer/las fiestas de la escuela de español/a ustedes (dar igual)
 5. parecer/la poesía de Neruda/a nosotros (fascinar)
+]
 
 --
 
+.Large[
 ¡Ahora pon las frases en el pasado!
+]
 
 ---
 
@@ -1653,9 +1712,11 @@ Ej. parecer/el senderismo/a los estudiantes (encantar)
 
 ### Construye preguntas y respuestas con estos componentes
 
+.large[
 Ej. parecer/el senderismo/a los estudiantes (encantar)  
 ¿Qué **les** .RUred[parece] .grey[el senderismo] **a los estudiantes**?  
 (**A los estudiantes**) **les** .RUred[encanta] (.grey[el senderismo]). 
+]
 
 1. parecer/la tarea/a los niños (encantar)  
 .grey[¿Qué les parece la tarea a los niños?<br>A los niños les encanta la tarea.]
