@@ -877,6 +877,9 @@ background-position: 50% 50%
 # ¿Qué pasa?
 
 ---
+exclude: false
+
+<iframe src="https://play.kahoot.it/v2/?quizId=683897f5-ed33-407e-ad9a-90f2fd7d45e3" width="1000" height="600" style="border:none;"></iframe>
 
 
 
@@ -901,6 +904,7 @@ background-position: 50% 50%
 
 
 
+---
 class: inverse, middle, center
 
 # El pretérito
