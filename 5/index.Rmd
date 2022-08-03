@@ -767,7 +767,6 @@ background-size: 500px, 500px, 500px
 
 # Cuenta, cuenta, cuenta
 
-
 ### Cuéntale a tu vecino algo que hiciste durante el fin</br>de semana pasado
 
 ### Incluye lo siguiente:
@@ -779,6 +778,14 @@ background-size: 500px, 500px, 500px
 ---
 background-image: url("./assets/img/resumen.png")
 background-size: contain
+
+
+
+
+
+
+---
+class: title-slide-section-blue
 
 ---
 
@@ -1010,13 +1017,13 @@ Por la mañana, René y yo (19. despertarse) **nos despertamos** y (20. irse) **
 
 
 
-exclude: true
+exclude: false
 class: inverse, middle, center
 
 # Los comparativos y los superlativos
 
 ---
-exclude: true
+exclude: false
 
 # Las comparaciones de superioridad:
 
@@ -1034,22 +1041,22 @@ exclude: true
 </br>
 
 --
-exclude: true
+exclude: false
 
 - Sultán es *más* **grande** *que* Preciosa.
 
 --
-exclude: true
+exclude: false
 
 - Sultán come *más* **rápidamente** *que* Preciosa.
 
 --
-exclude: true
+exclude: false
 
 - Sultán tiene *más* **energía** *que* Preciosa.
 
 ---
-exclude: true
+exclude: false
 
 # Las comparaciones de inferioridad:
 
@@ -1067,44 +1074,44 @@ exclude: true
 </br>
 
 --
-exclude: true
+exclude: false
 
 - Lobo es *menos* **grande** *que* Preciosa.
 
 --
-exclude: true
+exclude: false
 
 - Lobo duerme *menos* **tranquilamente** *que* Preciosa.
 
 --
-exclude: true
+exclude: false
 
 - Lobo tiene *menos* **juguetes** *que* Preciosa.
 
 ---
-exclude: true
+exclude: false
 
 # Las comparaciones irregulares:
 
 - Lobo es **menor** que Preciosa.
 
 --
-exclude: true
+exclude: false
 
 - Preciosa es **mayor** que Lobo.
 
 --
-exclude: true
+exclude: false
 
 - La personalidad de Preciosa es **mejor** que la personalidad de Lobo.
 
 --
-exclude: true
+exclude: false
 
 - La personalidad de Lobo es **peor** que la personalidad de Sultán.
 
 ---
-exclude: true
+exclude: false
 
 # Las comparaciones de igualdad:
 
@@ -1122,17 +1129,17 @@ exclude: true
 </br>
 
 --
-exclude: true
+exclude: false
 
 - Lobo es *tan* **malo** *como* Sultán.
 
 --
-exclude: true
+exclude: false
 
 - Lobo corre *tan* **rápidamente** *como* Sultán.
 
 ---
-exclude: true
+exclude: false
 
 # Las comparaciones de igualdad:
 
@@ -1150,22 +1157,22 @@ exclude: true
 </br>
 
 --
-exclude: true
+exclude: false
 
 - Lobo tiene *tantos* **juguetes** *como* Sultán.
 
 --
-exclude: true
+exclude: false
 
 - Lobo tiene *tanta* **energía** *como* Sultán.
 
 --
-exclude: true
+exclude: false
 
 - ¡OJO! Lobo come **tanto como** Sultán.
 
 ---
-exclude: true
+exclude: false
 
 # Los superlativos expresan los extremos
 
@@ -1183,17 +1190,17 @@ exclude: true
 </br>
 
 --
-exclude: true
+exclude: false
 
 - Sultán es *el* **perro** *más* **grande** de los tres.
 
 --
-exclude: true
+exclude: false
 
 - Lobo es *el* *menos* **grande** pero *el* *más* **feroz** del grupo.
 
 ---
-exclude: true
+exclude: false
 background-image: url(./assets/img/maya1.JPG), url(./assets/img/preciosa.png)
 background-position: 10% 60%, 90% 60%
 background-size: 300px, 300px
@@ -1201,7 +1208,7 @@ background-size: 300px, 300px
 # Comparad...
 
 ---
-exclude: true
+exclude: false
 background-image: url(./assets/img/maya4.JPG), url(./assets/img/uglycat.jpg)
 background-position: 10% 60%, 90% 60%
 background-size: 500px, 400px
@@ -1209,14 +1216,14 @@ background-size: 500px, 400px
 # Comparad...
 
 ---
-exclude: true
+exclude: false
 background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/partner2.gif)
 background-size: contain
 
 # Comparad...
 
 ---
-exclude: true
+exclude: false
 class: center, middle
 background-image: url(https://pbs.twimg.com/profile_images/1382649485705220098/8DIERl-H_400x400.jpg), url(./assets/img/pato.png)
 background-size: 400px, 400px
@@ -1225,7 +1232,7 @@ background-position: 10% 60%, 90% 60%
 # Pocoyó <br>y<br> Pato
 
 ---
-exclude: true
+exclude: false
 background-image: url(https://pbs.twimg.com/media/D1NxyxmXcAApAvD.jpg)
 background-size: contain
 
@@ -1238,7 +1245,7 @@ background-size: contain
 ]
 
 ---
-exclude: true
+exclude: false
 
 # A practicar
 
@@ -1246,7 +1253,7 @@ exclude: true
 
 Modelo: Los perros / los gatos  
 --
-exclude: true
+exclude: false
 
 Los perros son .red[más] .blue[simpáticos] .green[que] los gatos  
 Los gatos son .red[más] .blue[pequeños] .green[que] los perros  
@@ -1254,7 +1261,7 @@ Los gatos son .red[tan] .blue[divertidos] .green[como] los perros
 Los perros duermen .blue[tanto como] los gatos
 
 --
-exclude: true
+exclude: false
 
 .Large[
 
