@@ -48,14 +48,4 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-x0_paso_prelim/
-xcap1/
-xcap2/
-xcap3/
-xcap4/
-xcap5/
-xcap6/
-xcap7/
-xcap8/
-xcap9/
-xcap10/
+archive/
