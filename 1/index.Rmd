@@ -27,6 +27,8 @@ xaringanExtra::use_xaringan_extra(
   c("tile_view", "freezeframe")
 )
 ```
+
+exclude: true
 class: inverse, center, middle
 count: false
 
