@@ -890,13 +890,13 @@ count: false
 
 
 
-exclude: true
+exclude: false
 class: inverse, middle, center
 
 # Veo veo
 
 ---
-exclude: true
+exclude: false
 class: inverse, middle, center
 background-image: url(https://media2.giphy.com/media/XfBtsIAbXUJIk/giphy.gif)
 background-size: 500px
@@ -906,7 +906,7 @@ background-size: 500px
 # Mis metas
 
 ---
-exclude: true
+exclude: false
 
 # Metas para este verano
 
@@ -935,13 +935,13 @@ exclude: true
 
 
 
-exclude: true
+exclude: false
 class: inverse, center, middle
 
 # Más sobre la concordancia
 
 ---
-exclude: true
+exclude: false
 
 # La relación sujeto/verbo
 
@@ -950,22 +950,22 @@ exclude: true
 .Large[**Juan** ***tiene*** tres clases este semestre.]
 
 --
-exclude: true
+exclude: false
 
 .Large[**Juan** *no* ***tiene*** un laboratorio este semestre.]
 
 --
-exclude: true
+exclude: false
 
 .Large[**Yo** *tengo* cuatro clases este semestre, pero **ella** *tiene* cinco.]
 
 --
-exclude: true
+exclude: false
 
 .Large[**Los estudiantes** ***estudian*** durante el fin de semana.]
 
 --
-exclude: true
+exclude: false
 
 .Large[**Tú y yo** ***buscamos*** las respuestas de la tarea.]
 
@@ -981,13 +981,13 @@ exclude: true
 
 
 
-exclude: true
+exclude: false
 class: inverse, center, middle
 
 # Los adjetivos
 
 ---
-exclude: true
+exclude: false
 
 # Los adjetivos
 
@@ -1004,7 +1004,7 @@ exclude: true
 ]
 
 ---
-exclude: true
+exclude: false
 
 # Los adjetivos posesivos
 
@@ -1023,7 +1023,7 @@ exclude: true
 ]
 
 --
-exclude: true
+exclude: false
 
 .Large[
 - mi familia, mis abuelos
@@ -1032,7 +1032,7 @@ exclude: true
 ]
 
 ---
-exclude: true
+exclude: false
 background-image: url(./assets/img/cadiz.png)
 background-position: 90% 40%
 
@@ -1057,7 +1057,7 @@ background-position: 90% 40%
 ]
 
 ---
-exclude: true
+exclude: false
 background-image: url(./assets/img/cadiz.png)
 background-position: 90% 40%
 
@@ -1082,7 +1082,7 @@ background-position: 90% 40%
 ]
 
 ---
-exclude: true
+exclude: false
 
 # ¡Nunca usamos .RUred['s] para indicar posesión!
 
@@ -1096,7 +1096,7 @@ exclude: true
 ]
 
 --
-exclude: true
+exclude: false
 
 .pull-right[
 ### La casa de mi hermana
@@ -1127,13 +1127,13 @@ exclude: true
 
 
 
-exclude: true
+exclude: false
 class: inverse, center, middle
 
 # El verbo .RUred[SER]
 
 ---
-exclude: true
+exclude: false
 
 # El verbo ser para describir
 
@@ -1146,7 +1146,7 @@ exclude: true
 ]
 
 --
-exclude: true
+exclude: false
 
 ### Sirve para identificar y describir a las personas
 
@@ -1158,7 +1158,7 @@ exclude: true
 ]
 
 ---
-exclude: true
+exclude: false
 class: center, middle
 
 .Large[
@@ -1171,13 +1171,13 @@ class: center, middle
 ]
 
 ---
-exclude: true
+exclude: false
 background-image: url(./assets/img/kino.png)
 background-size: contain
 background-color: black
 
 ---
-exclude: true
+exclude: false
 
 # Más descripción
 
@@ -1192,7 +1192,7 @@ personalidad (tímido, divertido, extrovertido)
 ]
 
 --
-exclude: true
+exclude: false
 
 .Large[
 - Escoge una persona de la clase (¡sin decir quién!) y descríbela para que 
@@ -1218,7 +1218,7 @@ los demás adivinen quién es
 
 
 
-exclude: true
+exclude: false
 class: inverse, center, middle
 
 <!-- ser/estar -->
@@ -1226,7 +1226,7 @@ class: inverse, center, middle
 # Ser y estar
 
 ---
-exclude: true
+exclude: false
 background-image: url(./assets/img/maya.png)
 background-size: 450px
 background-position: 95% 50%
@@ -1236,32 +1236,32 @@ background-position: 95% 50%
 .Large[Maya **es** mi perra.]
 
 --
-exclude: true
+exclude: false
 
 .Large[Mi hermana **es** enfermera.]
 
 --
-exclude: true
+exclude: false
 
 .Large[Yo **soy** lingüista.]
 
 --
-exclude: true
+exclude: false
 
 .Large[Tú **eres** estudiante.]
 
 --
-exclude: true
+exclude: false
 
 .Large[Fanny **es** de Perú.]
 
 --
-exclude: true
+exclude: false
 
 .Large[Nosotros **somos** divertidos.]
 
 ---
-exclude: true
+exclude: false
 background-image: url(./assets/img/sultan.png), url(./assets/img/lobo.png)
 background-size: 200px, 200px
 background-position: 80% 50%, 100% 50%
@@ -1271,7 +1271,7 @@ background-position: 80% 50%, 100% 50%
 ## Para describir características con los adjetivos
 
 --
-exclude: true
+exclude: false
 
 .Large[
 - Sultán **es** grande y feroz.
@@ -1280,7 +1280,7 @@ exclude: true
 ]
 
 ---
-exclude: true
+exclude: false
 background-image: url(./assets/img/mayaFloja.png)
 background-size: contain
 background-position: 100% 50%
@@ -1289,7 +1289,7 @@ class: middle
 # Maya es muy...
 
 ---
-exclude: true
+exclude: false
 background-image: url(./assets/img/ser1.png)
 background-size: 450px
 background-position: 95% 50%
@@ -1299,7 +1299,7 @@ background-position: 95% 50%
 ## Con la preposición "de"
 
 --
-exclude: true
+exclude: false
 
 .Large[**Posesión**
 
@@ -1309,7 +1309,7 @@ exclude: true
 </br>
 
 --
-exclude: true
+exclude: false
 
 .Large[**Origen**
 
@@ -1317,7 +1317,7 @@ exclude: true
 ]
 
 ---
-exclude: true
+exclude: false
 background-image: url(./assets/img/fiesta.png)
 background-size: 450px
 background-position: 95% 50%
@@ -1327,22 +1327,22 @@ background-position: 95% 50%
 ## Con la .RUred[HORA] y el .RUred[LUGAR] de los eventos
 
 --
-exclude: true
+exclude: false
 
 .Large[¿Cuándo **es** la fiesta?]
 
 --
-exclude: true
+exclude: false
 
 .Large[**Es** el sábado a las siete de la noche.]
 
 --
-exclude: true
+exclude: false
 
 .Large[La fiesta **es** en la casa del profesor.]
 
 ---
-exclude: true
+exclude: false
 background-image: url(./assets/img/az.png)
 background-size: contain
 background-position: 140% 50%
@@ -1352,17 +1352,17 @@ background-position: 140% 50%
 ## La ubicación de las cosas
 
 --
-exclude: true
+exclude: false
 
 ### ¿Dónde **está** el profe?
 
 --
-exclude: true
+exclude: false
 
 ### **Está** en el gran cañón.
 
 ---
-exclude: true
+exclude: false
 background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/img/frustration.png)
 background-position: 90% 30%
 
@@ -1371,14 +1371,14 @@ background-position: 90% 30%
 ## Para describir una condición
 
 --
-exclude: true
+exclude: false
 
 ###¿Cómo **está** Jackie Chan?
 
 ###**Está**...
 
 ---
-exclude: true
+exclude: false
 background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/img/frustration.png)
 background-position: 90% 30%
 
@@ -1387,7 +1387,7 @@ background-position: 90% 30%
 ## Las características versus las condiciones
 
 --
-exclude: true
+exclude: false
 
 <br><br><br><br><br>
 
@@ -1412,65 +1412,65 @@ exclude: true
 ]
 
 ---
-exclude: true
+exclude: false
 class: title-slide-section-grey, middle, center
 
 # ¿.RUred[Cómo es (son)]? </br></br>¿.RUred[Cómo está(n)]?
 
 ---
-exclude: true
+exclude: false
 count: false
 background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/cant_believe.gif)
 background-size: contain
 
 ---
-exclude: true
+exclude: false
 count: false
 background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/creepy_happy.gif)
 background-size: contain
 
 ---
-exclude: true
+exclude: false
 count: false
 background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/haha.gif)
 background-size: contain
 
 ---
-exclude: true
+exclude: false
 count: false
 background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/jurassic_park.gif)
 background-size: contain
 
 ---
-exclude: true
+exclude: false
 count: false
 background-color: black
 background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/luis.gif)
 background-size: contain
 
 ---
-exclude: true
+exclude: false
 count: false
 background-color: black
 background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/rock_clap.gif)
 background-size: contain
 
 ---
-exclude: true
+exclude: false
 count: false
 background-color: black
 background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/teaching/img/tired.png)
 background-size: contain
 
 ---
-exclude: true
+exclude: false
 count: false
 background-color: black
 background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/general/gifs/throw_into_pool.gif)
 background-size: contain
 
 ---
-exclude: true
+exclude: false
 
 # Ser vs. Estar
 
@@ -1496,10 +1496,18 @@ exclude: true
 
 
 
-exclude: true
+exclude: false
 class: title-slide-section-blue
 
 ---
+
+
+
+
+
+
+
+
 
 
 
