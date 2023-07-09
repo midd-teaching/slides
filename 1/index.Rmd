@@ -36,7 +36,7 @@ count: false
 
 <!--
 pagedown::chrome_print(
-  input = here::here("1", "index.html"), 
+  input = "https://www.midd.jvcasillas.com/slides/1/index.html", 
   output = here::here("1", "index.pdf")
   )
 --> 
