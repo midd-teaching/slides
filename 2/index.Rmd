@@ -1315,7 +1315,7 @@ exclude: false
 ```{r, results='asis', echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
 tribble(
-~'Primera persona', ~'&#160;',  ~'Segunda persona', 
+~'Singular', ~'&#160;',  ~'Plural', 
  'yo **me**',        '',         'nosotros **nos**', 
  'tú **te**',        '',         'vosotros **os**', 
  'ella **se**',      '',         'ellas **se**'
