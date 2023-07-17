@@ -1603,13 +1603,13 @@ background-position: 85% 50%
 
 
 
-exclude: true
+exclude: false
 class: inverse, center, middle
 
 # Estrategias para la comprensión auditiva
 
 ---
-exclude: true
+exclude: false
 class: title-slide-section-blue, center, bottom
 background-image: url("./assets/img/moana.gif")
 background-size: contain
