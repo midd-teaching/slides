@@ -1095,7 +1095,7 @@ exclude: false
 
 
 
-exclude: true
+exclude: false
 class: inverse, middle, center
 
 <!-- más descripción -->
@@ -1103,7 +1103,7 @@ class: inverse, middle, center
 # La familia
 
 ---
-exclude: true
+exclude: false
 
 # La familia
 
@@ -1116,7 +1116,7 @@ exclude: true
 </div>
 
 ---
-exclude: true
+exclude: false
 
 # ¿Cómo es tu familia?
 
@@ -1133,7 +1133,7 @@ exclude: true
 </div>
 
 ---
-exclude: true
+exclude: false
 
 # Mi árbol genealógico
 

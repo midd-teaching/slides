@@ -776,7 +776,7 @@ exclude: true
 ]
 
 ---
-exclude: true
+exclude: false
 background-image: url(./assets/img/golden.jpg)
 background-size: 250px
 background-position: 95% 50%
@@ -784,10 +784,14 @@ background-position: 95% 50%
 # Tu comida preferida
 
 - ¿Cuál es tu comida preferida? Escribe una receta explicando cómo se cocina.
+- Utiliza mandatos **formales**
+
+<!--
 - Utiliza el se pasivo y el se impersonal  
+-->
 
 --
-exclude: true
+exclude: false
 
 **Verbos útiles**  
 
@@ -805,10 +809,10 @@ exclude: true
 - probar
 
 --
-exclude: true
+exclude: false
 
 <p></p>
-- Reescribe tu lista usando mandatos formales
+- Reescribe tu lista usando mandatos informales
 
 ---
 exclude: true
