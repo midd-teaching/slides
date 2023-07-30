@@ -28,6 +28,7 @@ xaringanExtra::use_xaringan_extra(
 )
 ```
 
+exclude: true
 class: inverse, center, middle
 count: false
 
