@@ -29,7 +29,7 @@ xaringanExtra::use_xaringan_extra(
 ```
 
 exclude: true
-class: inverse, center, middle
+class: inverse, center, mfalsee
 count: false
 
 # Descarga en formato PDF [aquí](https://www.midd.jvcasillas.com/slides/3/index.pdf)
@@ -460,7 +460,7 @@ exclude: false
 
 ---
 exclude: true
-background-image: url(./assets/img/doler2.jpg)
+background-image: url(./assets/img/doler2false)
 background-position: 95% 50%
 
 # El verbo doler sigue el modelo de gustar
@@ -589,7 +589,7 @@ background-position: 50% 35%
 
 
 exclude: true
-class: inverse, center, middle
+class: inverse, center, mfalsee
 
 <video width="350" controls>
   <source src="./assets/video/no_se_hacen_fotos.mov" type="video/mp4">
@@ -598,7 +598,7 @@ Your browser does not support the video tag.
 
 ---
 
-exclude: true
+exclude: false
 
 # Leed el siguiente párrafo...
 
@@ -610,12 +610,12 @@ muy difíciles. Se tiene que trabajar mucho y las tareas se entregan todos los d
 
 ---
 exclude: true
-class: inverse, center, middle
+class: inverse, center, mfalsee
 
 # El "se" pasivo
 
 ---
-exclude: true
+exclude: false
 
 # El "se" pasivo
 
@@ -624,14 +624,14 @@ exclude: true
 ]
 
 --
-exclude: true
+exclude: false
 
 .Large[
 - **se** + <blue>verbo conjugado</blue> + sustantivo
 ]
 
 --
-exclude: true
+exclude: false
 
 <p></p>
 
@@ -641,7 +641,7 @@ exclude: true
 ]
 
 --
-exclude: true
+exclude: false
 
 <p></p>
 
@@ -651,7 +651,7 @@ exclude: true
 ]
 
 ---
-exclude: true
+exclude: false
 
 # El "se" impersonal
 
@@ -660,21 +660,21 @@ exclude: true
 ]
 
 --
-exclude: true
+exclude: false
 
 .Large[
 - Podemos pensar que la(s) persona(s) que realiza(n) la acción son "ellos", "la gente", "las personas", "tú" o "uno".
 ]
 
 --
-exclude: true
+exclude: false
 
 .Large[
 - **se** + <blue>verbo singular</blue> + un infinitivo/un adverbio
 ]
 
 --
-exclude: true
+exclude: false
 
 .Large[
 - Ej. 
@@ -684,7 +684,7 @@ exclude: true
 ]
 
 ---
-exclude: true
+exclude: false
 
 # "Se" impersonal vs. "se" pasivo
 
@@ -703,7 +703,7 @@ exclude: true
 ]
 
 ---
-exclude: true
+exclude: false
 
 # No sé llegar
 
@@ -717,7 +717,7 @@ Modelo: El comedor de Proctor
 .blue[Persona 2]: Por supuesto. Se sale de este edificio, se gira a la derecha y se sigue la acera hasta el próximo edificio. 
 
 --
-exclude: true
+exclude: false
 
 .pull-left[
 
@@ -750,7 +750,7 @@ exclude: true
 ]
 
 ---
-exclude: true
+exclude: false
 
 # Releed el siguiente párrafo...
 
@@ -759,7 +759,7 @@ En la escuela de español sólo **se** habla español. No **se** puede hablar en
 ]
  
 --
-exclude: true
+exclude: false
 
 .pull-left[
 
@@ -815,7 +815,7 @@ exclude: false
 - Reescribe tu lista usando mandatos informales
 
 ---
-exclude: true
+exclude: false
 
 # Resumen
 
@@ -849,13 +849,13 @@ background-size: contain
 
 ---
 exclude: true
-count: false
+count: falsee
 background-image: url(./assets/img/mandatos_se_pasiva-impersonal_3.png)
 background-size: contain
 
 ---
 exclude: true
-count: false
+count: falsee
 background-image: url(./assets/img/mandatos_se_pasiva-impersonal_4.png)
 background-size: contain
 
@@ -882,11 +882,11 @@ class: middle
 
 
 exclude: true
-class: title-slide-section-blue
+class: title-slide-sectionfalsee
 
 ---
 exclude: true
-class: inverse, middle, center
+class: inverse, middle, cfalser
 
 # ¿Cómo damos consejos?
 
@@ -895,7 +895,7 @@ class: inverse, middle, center
 </div>
 
 ---
-exclude: true
+exclude: false
 
 # ¿Cómo damos consejos?
 
@@ -908,14 +908,14 @@ exclude: true
 - **Use** esta crema cada seis horas.
 
 --
-exclude: true
+exclude: false
 
 ### Con un consejo indirecto:
 
 - Es importante que Ud. **use** un protector solar.
 
 ---
-exclude: true
+exclude: false
 
 # El subjuntivo
 
@@ -939,7 +939,7 @@ exclude: true
 
 
 ---
-exclude: true
+exclude: false
 
 # El subjuntivo
 
@@ -950,7 +950,7 @@ exclude: true
 </div>
 
 ---
-exclude: true
+exclude: false
 
 # El subjuntivo
 
@@ -971,7 +971,7 @@ exclude: true
 
 ---
 exclude: true
-background-image: url(./assets/img/ali3.png)
+background-image: url(./assets/img/ali3false)
 background-size: contain
 background-position: 100% 50%
 
@@ -1004,7 +1004,7 @@ Your browser does not support the audio element.
 ]
 
 ---
-exclude: true
+exclude: false
 
 # Querida Abby
 
@@ -1015,7 +1015,7 @@ Tengo un problema con mi vida personal. Tengo mucho trabajo este semestre. Tengo
 ]
 
 --
-exclude: true
+exclude: false
 
 .large[
 - ¿Qué consejos tienes para "Trabajadora"?
@@ -1023,7 +1023,7 @@ exclude: true
 ]
 
 --
-exclude: true
+exclude: false
 
 .large[
 - Con un compañero, escribidle a Abby un párrafo corto explicando un problema que has tenido en Middlebury. Pedidle consejos para que os ayude. 
