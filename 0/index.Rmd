@@ -2,7 +2,7 @@
 title       : "Español 1.5"
 subtitle    : "Introducción"
 author      : "Joseph V. Casillas"
-date        : "Middlebury College | Verano 2023"
+date        : "Middlebury College | Verano 2024"
 output:
   xaringan::moon_reader:
     css: ["hygge", "middlebury", "middlebury-fonts"]
@@ -142,7 +142,7 @@ background-image: url(./assets/img/sd.png)
 background-size: contain
 class: title-slide-section-grey
 
-# .RUred[Es mi verano \#14 en Middlebury.]
+# .RUred[Es mi verano \#15 en Middlebury.]
 
 ---
 
