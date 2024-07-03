@@ -331,7 +331,7 @@ class: inverse, center, middle
 | :------------------- | :----------- |
 | de maravilla         | cansado/a    |
 | (bastante, muy) bien | contento/a   |
-| regular              | efermo/a     |
+| regular              | enfermo/a    |
 | (bastante, muy) mal  | enojado/a    |
 | de buen humor        | nervioso/a   |
 | de mal humor         | ocupado/a    |
