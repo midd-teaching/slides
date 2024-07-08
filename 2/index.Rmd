@@ -162,6 +162,30 @@ background-size: 400px
 
 # Los verbos irregulares con -go: la forma yo
 
+### Con un/a compañero/a, pensad en frases originales usando estos verbos
+
+- ¿A qué hora sales de tu clase de español? 
+- ¿Qué traes a clase? 
+- ¿Dónde haces la tarea? 
+- ¿Estudias con amigos o solo/a? 
+- Cuando estudias, ¿oyes música o pones la televisión?
+
+--
+
+</br>
+
+| Infinitivo |    |   Yo       |    |            Otras personas           |
+| :--------- | :- | :--------- | :- | :---------------------------------- |
+| hacer      |    | **hago**   |    | haces, hace, hacemos, hacéis, hacen |
+| poner      |    | **pongo**  |    | pones, pone, ponemos, ponéis, ponen |
+| salir      |    | **salgo**  |    | sales, sale, salimos, salís, salen  |
+| traer      |    | **traigo** |    | traes, trae, traemos, traéis, traen |
+| oír        |    | **oigo**   |    | oyes, oye, oímos, oís, oyen         |
+
+---
+
+# Los verbos irregulares con -go: la forma yo
+
 </br>
 
 .Large[
@@ -187,30 +211,6 @@ Oír significa percibir sonidos
 
 ---
 
-# Los verbos irregulares con -go: la forma yo
-
-### Con un/a compañero/a, pensad en frases originales usando estos verbos
-
-- ¿A qué hora sales de tu clase de español? 
-- ¿Qué traes a clase? 
-- ¿Dónde haces la tarea? 
-- ¿Estudias con amigos o solo/a? 
-- Cuando estudias, ¿oyes música o pones la televisión?
-
---
-
-</br>
-
-| Infinitivo |    |   Yo       |    |            Otras personas           |
-| :--------- | :- | :--------- | :- | :---------------------------------- |
-| hacer      |    | **hago**   |    | haces, hace, hacemos, hacéis, hacen |
-| poner      |    | **pongo**  |    | pones, pone, ponemos, ponéis, ponen |
-| salir      |    | **salgo**  |    | sales, sale, salimos, salís, salen  |
-| traer      |    | **traigo** |    | traes, trae, traemos, traéis, traen |
-| oír        |    | **oigo**   |    | oyes, oye, oímos, oís, oyen         |
-
----
-
 
 
 
@@ -229,6 +229,27 @@ Oír significa percibir sonidos
 class: title-slide-section-grey, middle
 
 # El verbo .RUred[ir]
+
+---
+
+## Tienes que entrevistar a Miguel y a Felipe, dos nuevos estudiantes en tu universidad. 
+
+**Tú**: Hola, Miguel. Hola, Felipe. Tengo unas preguntas para Uds. Primero, ¿de dónde (ser / ir) Uds.?  
+
+.RUred[MIGUEL]: Felipe y yo (ser / ir) de Bayamón, Puerto Rico.  
+
+**Tú**: No conozco Bayamón. ¿En qué parte de Puerto Rico (estar / ir)? ¿(Ser / Tener)
+muchas atracciones turísticas?  
+
+.RUred[MIGUEL]: Bueno, Bayamón (estar / ir) más o menos en la región central de Puerto Rico. Y sí, hay muchas atracciones. Por ejemplo, el Parque de las Ciencias Luis A. Ferré (ser / tener) muy popular.  
+
+**Tú**: ¡Qué interesante! Bueno, tengo una pregunta más. ¿Qué (ser / ir) a estudiar Uds. aquí en la universidad?  
+
+.RUred[MIGUEL]: Yo (ser /ir) a estudiar farmacia y Felipe (ser / ir) a estudiar biologia.  
+
+**Tú**: Gracias por contestar mis preguntas. ¿(Tener / Ir) (nosotros) a un café ahora?  
+
+.RUred[MIGUEL]: Sí. De acuerdo.
 
 ---
 
@@ -252,27 +273,6 @@ class: title-slide-section-grey, middle
 - Ir a + infinitivo (futuro, ¿Qué vas a hacer?)
   - **Voy a** estudiar
   - Los estudiantes **van a** estudiar este fin de semana
-
----
-
-## Tienes que entrevistar a Miguel y a Felipe, dos nuevos estudiantes en tu universidad. 
-
-**Tú**: Hola, Miguel. Hola, Felipe. Tengo unas preguntas para Uds. Primero, ¿de dónde (ser / ir) Uds.?  
-
-.RUred[MIGUEL]: Felipe y yo (ser / ir) de Bayamón, Puerto Rico.  
-
-**Tú**: No conozco Bayamón. ¿En qué parte de Puerto Rico (estar / ir)? ¿(Ser / Tener)
-muchas atracciones turísticas?  
-
-.RUred[MIGUEL]: Bueno, Bayamón (estar / ir) más o menos en la región central de Puerto Rico. Y sí, hay muchas atracciones. Por ejemplo, el Parque de las Ciencias Luis A. Ferré (ser / tener) muy popular.  
-
-**Tú**: ¡Qué interesante! Bueno, tengo una pregunta más. ¿Qué (ser / ir) a estudiar Uds. aquí en la universidad?  
-
-.RUred[MIGUEL]: Yo (ser /ir) a estudiar farmacia y Felipe (ser / ir) a estudiar biologia.  
-
-**Tú**: Gracias por contestar mis preguntas. ¿(Tener / Ir) (nosotros) a un café ahora?  
-
-.RUred[MIGUEL]: Sí. De acuerdo.
 
 ---
 
