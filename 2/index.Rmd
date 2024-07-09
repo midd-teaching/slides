@@ -709,26 +709,111 @@ exclude: false
 class: title-slide-section-blue
 
 ---
-exclude: false
+exclude: true
 background-image: url(./assets/img/1a.png)
 background-size: contain
 
 ---
-exclude: false
+exclude: true
 background-image: url(./assets/img/1b.png)
 background-size: contain
 
 ---
-exclude: false
+exclude: true
 background-image: url(./assets/img/2a.png)
 background-size: contain
 
 ---
-exclude: false
+exclude: true
 background-image: url(./assets/img/2b.png)
 background-size: contain
 
 ---
+
+.large[
+1. Nombre propio (masculino): 
+1. Nombre propio (femenino): 
+1. Adjetivo (masculino): 
+1. Lugar: 
+1. Sustantivo (plural): 
+1. Adjetivo (femenino): 
+1. Verbo en infinitivo: 
+1. Sustantivo (singular): 
+1. Adjetivo (femenino): 
+1. Animal (plural): 
+1. Adjetivo (masculino): 
+1. Verbo en infinitivo: 
+1. Sustantivo (singular): 
+1. Adjetivo (masculino): 
+1. Verbo en infinitivo: 
+1. Sustantivo (plural): 
+1. Adjetivo (masculino): 
+1. Verbo en infinitivo: 
+1. Sustantivo (plural): 
+1. Adjetivo (femenino): 
+]
+---
+
+### Aventura en el bosque
+
+.large[
+
+Un día, **1. (Nombre propio masculino)** y **2. (Nombre propio femenino)** deciden ir a una aventura en un **3. (Adjetivo masculino)** bosque encantado cerca de **4. (Lugar)**. 
+Llevan con ellos sus **5. (Sustantivo plural)** favoritas y están muy emocionados con ganas de explorar el lugar.
+
+Al llegar, encuentran una **6. (Adjetivo femenino)** cueva y deciden **7. (Verbo en infinitivo)**. 
+Dentro de la cueva, ven un **8. (Sustantivo singular)** **9. (Adjetivo femenino)** rodeado de **10. (Animal plural)**. 
+Deciden ser **11. (Adjetivo masculino)** y continuar su exploración.
+
+De repente, **1. (Nombre propio masculino)** empieza a **12. (Verbo en infinitivo)** al ver un **13. (Sustantivo singular)** **14. (Adjetivo masculino)** que se mueve. 
+**2. (Nombre propio femenino)** le dice que debe **15. (Verbo en infinitivo)** y no tener miedo.
+
+Mientras caminan, encuentran unos **16. (Sustantivo plural)** **17. (Adjetivo masculino)** que parecen guiar el camino. 
+Deciden **18. (Verbo en infinitivo)** detrás de ellos. 
+Al final del camino, llegan a una cascada de **19. (Sustantivo plural)** **20. (Adjetivo femenino)** y deciden que este lugar es perfecto para descansar y disfrutar del paisaje.
+]
+
+---
+
+.large[
+1. Nombre propio (femenino):
+2. Nombre propio (masculino):
+3. Sustantivo (singular):
+4. Adjetivo (concuerda con 3):
+5. Lugar:
+6. Verbo en infinitivo:
+7. Sustantivo (femenino, plural):
+8. Adjetivo (concuerda con 7):
+9. Verbo en infinitivo:
+10. Adjetivo (masculino):
+11. Sustantivo (plural):
+12. Verbo en infinitivo:
+13. Animal (singular):
+14. Adjetivo (concuerda con 13):
+15. Verbo en infinitivo:
+16. Sustantivo (plural):
+17. Adjetivo (masculino, plural):
+18. Verbo en infinitivo:
+19. Sustantivo (singular):
+20. Adjetivo (masculino):
+]
+
+---
+
+### Un día totalmente normal
+
+Hoy, **1. (Nombre propio femenino)** y **2. (Nombre propio masculino)** piensan tener un **3. (Sustantivo singular)** muy **4. (Adjetivo)** en la ciudad de 5. (Lugar). 
+Primero, ellos deciden **6. (Verbo en infinitivo)** unos **7. (Sustantivo plural)** **8. (Adjetivo femenino)** en el parque.
+
+Mientras **9. (Verbo en infinitivo)**, ven a un hombre **10. (Adjetivo masculino)** vendiendo **11. (Sustantivo plural)**. 
+Deciden **12. (Verbo en infinitivo)** un **13. (Animal singular)** **14. (Adjetivo femenino)** y se ríen sin parar.
+
+Después, **1. (Nombre propio femenino)** intenta **15. (Verbo en infinitivo)** unos **16. (Sustantivo plural)** **17. (Adjetivo masculino)**, pero **2. (Nombre propio masculino)** prefiere **18. (Verbo en infinitivo)** un **19. (Sustantivo singular)** **20. (Adjetivo masculino)**.
+
+Al final del día, regresan a casa con historias **8. (Adjetivo femenino)** y recuerdos **17. (Adjetivo masculino)** de su **4. (Adjetivo masculino)** día en la ciudad de **5. (Lugar)**.
+
+---
+
 
 
 
