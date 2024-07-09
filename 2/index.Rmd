@@ -802,6 +802,8 @@ Al final del camino, llegan a una cascada de **19. (Sustantivo plural)** **20. (
 
 ### Un día totalmente normal
 
+.large[
+
 Hoy, **1. (Nombre propio femenino)** y **2. (Nombre propio masculino)** piensan tener un **3. (Sustantivo singular)** muy **4. (Adjetivo)** en la ciudad de 5. (Lugar). 
 Primero, ellos deciden **6. (Verbo en infinitivo)** unos **7. (Sustantivo plural)** **8. (Adjetivo femenino)** en el parque.
 
@@ -811,6 +813,8 @@ Deciden **12. (Verbo en infinitivo)** un **13. (Animal singular)** **14. (Adjeti
 Después, **1. (Nombre propio femenino)** intenta **15. (Verbo en infinitivo)** unos **16. (Sustantivo plural)** **17. (Adjetivo masculino)**, pero **2. (Nombre propio masculino)** prefiere **18. (Verbo en infinitivo)** un **19. (Sustantivo singular)** **20. (Adjetivo masculino)**.
 
 Al final del día, regresan a casa con historias **8. (Adjetivo femenino)** y recuerdos **17. (Adjetivo masculino)** de su **4. (Adjetivo masculino)** día en la ciudad de **5. (Lugar)**.
+
+]
 
 ---
 
