@@ -53,6 +53,11 @@ background-color: #2f5cb4
 
 
 
+---
+background-image: url(./assets/img/sentarse.png)
+background-position: contain
+
+
 
 
 
