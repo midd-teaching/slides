@@ -32,6 +32,7 @@ xaringanExtra::use_xaringan_extra(
 
 class: inverse, center, middle
 count: false
+exclude: true
 
 # Descarga en formato PDF [aquí](https://www.midd.jvcasillas.com/slides/7/index.pdf)
 
@@ -47,7 +48,7 @@ count: false
 class: center, middle
 background-color: #2f5cb4
 
-<iframe src="https://wall.sli.do/event/d6aXbQFnkHui9rX9hVdm3A?section=7c74fb24-a075-4d64-beef-0421960090b9" width="1000" height="600" style="border:none;"></iframe>
+<iframe src="https://wall.sli.do/event/2BdGwmWRU6FC6BGqJC6Rus?section=339c090e-da21-4828-a1da-b827fb93c1e0" width="1000" height="600" style="border:none;"></iframe>
 
 ---
 exclude: false
