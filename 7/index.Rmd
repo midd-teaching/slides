@@ -75,7 +75,7 @@ exclude: false
 - 1 oración que contenga acciones que ocurren al mismo tiempo
 - 1 o más acciones que ocurran en secuencia
 - 1 ejemplo de una acción que interrumpe otra
-- ~~1 oración en la que enfatices que una acción ocurre antes que la otra~~
+- 1 oración en la que enfatices que una acción ocurre antes que la otra
 
 ---
 
