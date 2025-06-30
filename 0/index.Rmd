@@ -2,7 +2,7 @@
 title       : "Español 1.5"
 subtitle    : "Introducción"
 author      : "Joseph V. Casillas"
-date        : "Middlebury College | Verano 2024"
+date        : "Middlebury College | Verano 2025"
 output:
   xaringan::moon_reader:
     css: ["hygge", "middlebury", "middlebury-fonts"]
@@ -142,7 +142,7 @@ background-image: url(./assets/img/sd.png)
 background-size: contain
 class: title-slide-section-grey
 
-# .RUred[Es mi verano \#15 en Middlebury.]
+# .RUred[Es mi verano \#16 en Middlebury.]
 
 ---
 
@@ -254,7 +254,9 @@ background-size: contain
 
 .Large[
 
-- Libro de texto: Proyectos
+- Libro de texto: 
+  - Sabor y amor
+  - Proyectos
 
 - Materiales en internet a través de Canvas: go.middlebury.edu/hub
 ]
