@@ -48,7 +48,7 @@ count: false
 class: center, middle
 background-color: #2f5cb4
 
-<iframe src="https://wall.sli.do/event/2BdGwmWRU6FC6BGqJC6Rus?section=339c090e-da21-4828-a1da-b827fb93c1e0" width="1000" height="600" style="border:none;"></iframe>
+<iframe src="https://wall.sli.do/event/3tDPu7tj1q7FWkKAaDsnVW?section=a34f8d4a-09a2-4b64-b63c-d19942493655" width="1000" height="600" style="border:none;"></iframe>
 
 ---
 exclude: false
