@@ -599,7 +599,6 @@ class: inverse, middle, center
   Lavar  
   Cambiar  
   Levantar  
-  Despertar  
   Pasear  
 
 ]
@@ -607,14 +606,12 @@ class: inverse, middle, center
 .pull-right[
 
   Dibujar  
-  Pensar  
   Disfrutar  
   Pintar  
   Durar  
   Practicar  
   Echar  
   Preguntar  
-  Empezar  
   Prestar  
 
 ]
@@ -626,14 +623,8 @@ class: inverse, middle, center
 .pull-left[
 
   **-er**  
-  Agradecer  
   Llover  
   Beber  
-  Nacer  
-  Caber  
-  Ofrecer  
-  Caer  
-  Perder  
   Comer  
   Prometer  
   Comprender   
@@ -646,13 +637,9 @@ class: inverse, middle, center
   Abrir  
   Partir  
   Construir  
-  Pedir  
-  Corregir  
   Prohibir  
   Decidir  
   Recibir  
-  Despedir  
-  Seguir  
   Discutir  
 
 ]
