@@ -838,7 +838,7 @@ background-position: 60% 50%
 
 .pull-left[
 
-## Benjamín **le** da .RUred[una manzana] **a la maestra**.
+## Miguel **le** da .RUred[una manzana] **a la maestra**.
 
 ]
 
