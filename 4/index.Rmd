@@ -851,6 +851,33 @@ background-position: 60% 50%
 ]
 
 ---
+
+# "le" y "les" → "se"
+
+</br>
+
+.Large[
+|        |     |     |    |     |    |     |     |     |
+| :----- | :-: | :-- | :- | :-: | :- | :-  | :-: | :-- |
+|        |     | lo  |    |     |    |     |     | lo  |
+| &nbsp; |     |     |    |     |    |     |     |     |
+|        |     | la  |    |     |    |     |     | la  |
+| le/les |  +  |     |    |  →  |    | se  |  +  |     |
+|        |     | los |    |     |    |     |     | los |
+| &nbsp; |     |     |    |     |    |     |     |     |
+|        |     | las |    |     |    |     |     | las |
+]
+
+--
+
+</br>
+
+.Large[
+- Miguel **le** da .RUred[una manzana] **a la maestra**.
+- **Se** .RUred[la] da.
+]
+
+---
 background-image: url(./assets/img/jing.jpg)
 background-size: 500px
 background-position: 50% 50%
