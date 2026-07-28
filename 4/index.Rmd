@@ -913,7 +913,7 @@ background-position: 50% 50%
 ]
 
 ---
-background-image: url(./assets/img/doio5.jpg)
+background-image: url(./assets/img/doio5.png)
 background-size: 700px
 background-position: 50% 50%
 
